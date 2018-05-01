@@ -44,7 +44,11 @@ L'application est destiné à toute personne voulant débuter dans un sport sans av
 
 \section{Functional and data requirements}
 
-L'utilisateur de l'application doit pouvoir générer une séance de sport qui convient à ses objectifs
+L'utilisateur de l'application doit pouvoir générer une séance de sport qui convient à ses objectifs et en fonction de son suivi. Dès la première utilisation et régulièrement, l'utilisateur devra communiquer à l'application ses données personnelles afin de permettre à l'application d'optimiser les séances de l'utilisateur. Les données personnelles sont donc des données nécessaires au bon fonctionnement de l'application. Dans les données personnelles, nous retrouvons le poids de la personne, sa taille et son âge.
+
+D'autre part, l'application devra aussi garder et utiliser des données de progression enregistrés à chaque fin de séance. L'application aura donc besoin de ces données de progression pour planifier la prochaine séance.  
+
+Au lancement de l'application, nous aurons besoin de données générales pour permettre à l'application d'appliquer des algorithmes de machine learning pour optimiser la génération des séances de sports. Ces données pourront être récupérer à l'aide d'enquête auprès d'experts ou de sportifs ayant déjà acquis un certain niveau dans le sport.
 
 \chapter{Non-functional requirements}
 
@@ -78,9 +82,23 @@ L'utilisateur de l'application doit pouvoir générer une séance de sport qui conv
 
 \section{Risks}
 
+Plusieurs risques sont à prendre à compte
+
 \section{Costs}
 
+Plusieurs coûts sont à envisager :
 
+\begin{itemize}
+
+\item Les coûts de conception, d'implémentation de déploiement de l'application
+
+\item Les coûts des services des experts qui vont nous aider à développer l'application en partageant leur expertise
+
+\item Les coûts de maintenance de l'application
+
+\item Les coûts de supports
+
+\end{itemize}
 
 \section{User documentation and training}
 
