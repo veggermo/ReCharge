@@ -1,12 +1,12 @@
 \documentclass{report}
 
-
-
 \usepackage[latin1]{inputenc} 
 
 \usepackage[T1]{fontenc}      
 
-\usepackage[francais]{babel}  
+\usepackage[french]{babel} 
+
+\usepackage{graphicx} 
 
 \title{Cahier des charges : Gestion des séances de sport \textit{SportEasy}}
 
@@ -85,7 +85,86 @@ Utilisation de la gamification (badges, trophées) pour motiver l'utilisateur à c
 
 \section{Functional and data requirements}
 
-L'utilisateur de l'application doit pouvoir générer une séance de sport qui convient à ses objectifs
+\subsection{Inscription dans le système}
+
+L'utilisateur doit pouvoir s'inscrire à l'aide d'un formulaire en rentrant ses données personnelles telles que son nom, prénom, adresse email, mot de passe ou alors à l'aide de son compte Google ou Facebook. Une fois ses données personnelles enregistrées, il devra ensuite entrer ses propres caractéristiques physique comme son poids et sa taille. Il devra également indiquer ses objectifs en choisissant parmi une liste d'objectifs proposé par l'application.
+
+\begin{figure}[!h]
+\includegraphics[scale=0.3]{ihms/inscription}
+\centering
+\hskip2em
+\includegraphics[scale=0.3]{ihms/caracteristiques}
+\caption{Interfaces d'inscription}
+\end{figure}
+
+
+\begin{itshape}
+User story : En tant qu'utilisateur, je veux rentrer mes données et caractéristiques personnelles dans le système pour m'inscrire.
+\end{itshape}
+
+\subsection{Didactitiel}
+
+Lorsque le scénario d'inscription est terminé, une séance est générée automatiquement au client selon son type de sport choisi. L'application lui proposera de cliquer sur tous les boutons disponibles, étapes par étapes à l?aide d?indications afin de bien prendre en main l'application. Une fois la séance terminée, l'utilisateur reçoit un badge pour avoir effectuer sa toute première séance.\\
+
+
+\begin{itshape}
+
+User stories :
+
+\begin{itemize}
+\item En tant qu'utilisateur, je veux prendre l?application en main pour pouvoir l'utiliser à bon escient par la suite.
+\item En tant que système, je propose un didacticiel à l'utilisateur pour que celui-ci utilise l'application correctement.
+\end{itemize}
+
+\end{itshape}
+
+\subsection{Utilisation normale (en séance)}
+L'utilisateur, avant de pouvoir générer une séance de sport, doit préciser le sport, l'intensité et le temps à consacrer pour sa séance. Le formulaire qu'il devra compléter sera pré-remplie en fonction des choix de ses séances précédentes.   
+
+\begin{figure}[!h]
+\centering
+\includegraphics[scale=0.3]{ihms/seance}
+\includegraphics[scale=0.3]{ihms/seance2}
+\includegraphics[scale=0.3]{ihms/seance3}
+\includegraphics[scale=0.3]{ihms/seance4}
+\caption{Interface de préparation de la séance}
+\end{figure}
+
+Une fois qu'il a confirmé ces informations, la séance est généré en fournissant à l'utilisateur une liste d'exercice à faire. Pour chaque exercice proposé, l'utilisateur pourra cliquer sur un sigle "Help" afin d'en savoir davantage sur l'exercice à réaliser. Ces informations d'aide peuvent être de types différents (vidéo, illustrations, texte). Une fois que l'utilisateur a fini tout les exercices, il doit valider sa séance en appuyant sur un bouton prévue à cette effet.\\ 
+
+\begin{figure}[!h]
+\centering
+\includegraphics[scale=0.3]{ihms/normal_session}
+\hskip2em
+\includegraphics[scale=0.3]{ihms/get_information_about_exo}
+\caption{Interface de la séance}
+\end{figure}
+
+\begin{itshape}
+User story : En tant qu'utilisateur, j'attribue une cotation pour chacun des critères proposés pour améliorer le système dans sa globalité et le contenu des futures séances.
+
+\end{itshape}
+
+\subsection{Suppression d?exercices d'une séance}
+
+Lors de la génération de la séance, l'utilisateur peut cliquer sur une molette qui permettra de supprimer des exercices. Dans ce cas, une icône apparaît à côté de chaque exercice. Lorsqu?il clique dessus, il peut justifier son choix afin que l?exercice revienne dans les programmes dans plus ou moins longtemps.
+
+\begin{figure}[!h]
+\centering
+\includegraphics[scale=0.3]{ihms/remove_exo}
+\caption{Suppression exercice}
+\end{figure}
+
+
+%Remplissage d?un formulaire en rentrant ses données personnelles telles que son nom, prénom, adresse email, mot de passe ou alors inscription avec compte Google, Facebook.
+%Dès que cette inscription est faite, l?utilisateur doit ses caractéristiques personnelles (taille, poids), ses objectifs : menu déroulant avec différents choix comme remise en forme, perte de poids, plaisir, prise de masse?
+
+
+%L'utilisateur de l'application doit pouvoir générer une séance de sport qui convient à ses objectifs et en fonction de son suivi. Dès la première utilisation et régulièrement, l'utilisateur devra communiquer à l'application ses données personnelles afin de permettre à l'application d'optimiser les séances de l'utilisateur. Les données personnelles sont donc des données nécessaires au bon fonctionnement de l'application. Dans les données personnelles, nous retrouvons le poids de la personne, sa taille et son âge.
+
+%D'autre part, l'application devra aussi garder et utiliser des données de progression enregistrés à chaque fin de séance. L'application aura donc besoin de ces données de progression pour planifier la prochaine séance.  
+
+%Au lancement de l'application, nous aurons besoin de données générales pour permettre à l'application d'appliquer des algorithmes de machine learning pour optimiser la génération des séances de sports. Ces données pourront être récupérer à l'aide d'enquête auprès d'experts ou de sportifs ayant déjà acquis un certain niveau dans le sport.
 
 \chapter{Non-functional requirements}
 
@@ -119,9 +198,23 @@ L'utilisateur de l'application doit pouvoir générer une séance de sport qui conv
 
 \section{Risks}
 
+Plusieurs risques sont à prendre à compte
+
 \section{Costs}
 
+Plusieurs coûts sont à envisager :
 
+\begin{itemize}
+
+\item Les coûts de conception, d'implémentation de déploiement de l'application
+
+\item Les coûts des services des experts qui vont nous aider à développer l'application en partageant leur expertise
+
+\item Les coûts de maintenance de l'application
+
+\item Les coûts de supports
+
+\end{itemize}
 
 \section{User documentation and training}
 

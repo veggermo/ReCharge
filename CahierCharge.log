@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.18)  2 MAY 2018 14:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.18)  2 MAY 2018 14:28
 entering extended mode
 **./CahierCharge.tex
 (CahierCharge.tex
@@ -48,16 +48,6 @@ File: switch.def 2018/02/14 3.18 Babel switching mechanism
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel-french\fra
-ncais.ldf"
-Language: francais 2018/02/04 v3.4b French support from the babel system
-
-
-Package francais.ldf Warning: Option `francais' for Babel is *deprecated*,
-(francais.ldf)                it might be removed sooner or later. Please
-(francais.ldf)                use `french' instead; reported on input line 31.
-
-
 ("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel-french\fre
 nch.ldf"
 Language: french 2018/02/04 v3.4b French support from the babel system
@@ -92,13 +82,37 @@ Package babel Info: Making ? an active character on input line 414.
 \leftmarginFB=\skip46
 \parindentFFN=\dimen105
 \FBfnindent=\skip47
-)))
+))
 ("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\scalefnt.
 sty")
 ("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
 y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
+)
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
 ) (CahierCharge.aux)
 \openout1 = `CahierCharge.aux'.
 
@@ -117,6 +131,85 @@ LaTeX Font Info:    ... okay on input line 19.
 LaTeX Info: Redefining \degres on input line 19.
 LaTeX Info: Redefining \dots on input line 19.
 LaTeX Info: Redefining \up on input line 19.
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen108
+\scratchbox=\box26
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen109
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -125,8 +218,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 21.
  [1
 
-{C:/Users/romai/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (CahierChar
-ge.toc
+{C:/Users/romai/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(CahierCharge.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -151,39 +244,103 @@ Chapitre 3.
 
 ]
 Chapitre 4.
+<ihms/inscription.png, id=36, 273.02pt x 483.8075pt>
+File: ihms/inscription.png Graphic file (type png)
+<use ihms/inscription.png>
+Package pdftex.def Info: ihms/inscription.png  used on input line 93.
+(pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
+<ihms/caracteristiques.png, id=38, 273.02pt x 483.8075pt>
+File: ihms/caracteristiques.png Graphic file (type png)
+<use ihms/caracteristiques.png>
+Package pdftex.def Info: ihms/caracteristiques.png  used on input line 96.
+(pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
 [8
 
-]
+ <./ihms/inscription.png> <./ihms/caracteristiques.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+<ihms/seance.png, id=46, 272.01625pt x 486.81876pt>
+File: ihms/seance.png Graphic file (type png)
+<use ihms/seance.png>
+Package pdftex.def Info: ihms/seance.png  used on input line 126.
+(pdftex.def)             Requested size: 81.6055pt x 146.04675pt.
+<ihms/seance2.png, id=47, 274.02374pt x 483.8075pt>
+File: ihms/seance2.png Graphic file (type png)
+<use ihms/seance2.png>
+Package pdftex.def Info: ihms/seance2.png  used on input line 127.
+(pdftex.def)             Requested size: 82.20775pt x 145.14337pt.
+<ihms/seance3.png, id=48, 272.01625pt x 480.79625pt>
+File: ihms/seance3.png Graphic file (type png)
+<use ihms/seance3.png>
+Package pdftex.def Info: ihms/seance3.png  used on input line 128.
+(pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
+<ihms/seance4.png, id=49, 271.0125pt x 482.80376pt>
+File: ihms/seance4.png Graphic file (type png)
+<use ihms/seance4.png>
+Package pdftex.def Info: ihms/seance4.png  used on input line 129.
+(pdftex.def)             Requested size: 81.30437pt x 144.84224pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+<ihms/normal_session.png, id=50, 273.02pt x 481.8pt>
+File: ihms/normal_session.png Graphic file (type png)
+<use ihms/normal_session.png>
+Package pdftex.def Info: ihms/normal_session.png  used on input line 137.
+(pdftex.def)             Requested size: 81.90663pt x 144.5411pt.
+<ihms/get_information_about_exo.png, id=51, 272.01625pt x 480.79625pt>
+File: ihms/get_information_about_exo.png Graphic file (type png)
+<use ihms/get_information_about_exo.png>
+Package pdftex.def Info: ihms/get_information_about_exo.png  used on input line
+ 139.
+(pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <./ihms/seance.png> <./ihms/seance2.png> <./ihms/seance3.png> <./ihms/seance
+4.png>]
+<ihms/remove_exo.png, id=59, 272.01625pt x 483.8075pt>
+File: ihms/remove_exo.png Graphic file (type png)
+<use ihms/remove_exo.png>
+Package pdftex.def Info: ihms/remove_exo.png  used on input line 154.
+(pdftex.def)             Requested size: 81.6055pt x 145.14337pt.
+ [10 <./ihms/normal_session.png> <./ihms/get_information_about_exo.png> <./ihms
+/remove_exo.png>]
 Chapitre 5.
-[9
+[11
 
 ]
 Chapitre 6.
-[10
+[12
 
-] (CahierCharge.aux) ) 
+] [13] (CahierCharge.aux) ) 
 Here is how much of TeX's memory you used:
- 1786 strings out of 493305
- 24547 string characters out of 3129802
- 95823 words of memory out of 3000000
- 5358 multiletter control sequences out of 15000+200000
- 15459 words of font info for 35 fonts, out of 3000000 for 9000
+ 3008 strings out of 493305
+ 43696 string characters out of 3129802
+ 108923 words of memory out of 3000000
+ 6512 multiletter control sequences out of 15000+200000
+ 16908 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,30p,864b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\romai\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\romai\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\romai\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Us
-ers\romai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.
-pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ecrm1200.pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
-\ec\dpi600\ecti1728.pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
-r\jknappen\ec\dpi600\ecrm1728.pk>
-Output written on CahierCharge.pdf (11 pages, 116412 bytes).
+ 41i,6n,30p,864b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\l
+jfour\jknappen\ec\dpi600\eccc1000.pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\romai\AppData\Local\M
+iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\romai\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\r
+omai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <
+C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm
+1000.pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
+pi600\ecbx1000.pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
+appen\ec\dpi600\ecbx2488.pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\romai\AppData\Local\MiKTeX\2.9
+\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1728.pk> <C:\Users\romai\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
+Output written on CahierCharge.pdf (14 pages, 711183 bytes).
 PDF statistics:
- 345 PDF objects out of 1000 (max. 8388607)
+ 443 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
