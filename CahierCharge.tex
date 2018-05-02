@@ -8,25 +8,66 @@
 
 \usepackage[francais]{babel}  
 
+\title{Cahier des charges : Gestion des séances de sport \textit{SportEasy}}
+
+\author{Valentin EGGERMONT 
+	\and Amélie LEMAL 
+	\and Romain RAVET}
+
+\date{Juin 2018}
+
 \begin{document}
+	
+\maketitle
+	
+\tableofcontents
 
-\chapter{Project driver}
+\chapter{Objectifs du projet}
 
-\section{The purpose of the project}
+Ce chapitre va principalement servir à introduire le but du produit et le plan business prévu pour le développement du produit.
 
-Le projet consiste à fournir au client un planificateur de séance de sport. Plus concrètement, le planificateur serait une application mobile qui permettrait à son utilisateur d'avoir un suivi sur ses séances de sport et sa progression ainsi que d'avoir ses séances planifiées automatiquement sans qu'il ait besoins des connaissances nécessaires à la bonne pratique du sport. 
+\section{But du projet}
+
+Le projet consiste à fournir au client un planificateur de séance de sport. Plus concrètement, le planificateur serait une application mobile qui permettrait à l'utilisateur d'organiser ses séances d'entraînement de la manière la plus optimale possible, sans que l'utilisateur n'ait nécessairement les connaissances d'un expert dans le domaine. La séance sera tout d'abord générée selon les caractéristiques de l'utilisateur (poids, taille, âge, morphologie). Ensuite, lorsque cette séance est finie, les performances et les objectifs sont mis à jour. Et les séances futures s'organiseront en fonction des perfomances préalables de l'utilisateur. 
+
+L'application vise les personnes sportives ou voulant faire du sport, plus particulièrement les personnes qui souhaite se lancer dans un sport sans nécessairement savoir comment débuter. L'application peut moins convenir pour un expert pratiquant son sport depuis plusieurs années, tout en se limitant aux sports individuels tels que la natation, la course à pied, la musculation ou encore le cyclisme. 
+
+\section{Plan business du projet}
+
+Au niveau business, l'idée principale est de faire un partenariat avec une franchise réputée comme \textit{Basic Fit}, par exemple. Cette franchise  ferait office d'investisseur afin de pouvoir lancer le produit sur le marché. En contrepartie, des publicités à leur effigie seront présentes, tout en gardant une navigation agréable sur l'application. Par exemple, le service renseignera les salles de sports partenaires les plus proches avec l'affluence et la disponbilité des machines. Dès que le produit sera devenu rentable, les revenus entraînés par le produit seront partagés avec les investisseurs afin que ceux-ci aient un retour sur l'investissement. Les partenaires feront également en sorte de faire la publicité de l'application dans leurs locaux, leurs réseaux sociaux ou même lors d'inscription d'un nouveau membre.
+
+L'application de base serait disponible gratuitement sur les plateformes de téléchargement d'applications mobiles (Play Store, App Store). Certains contenus déblocables seront eux payants car ils nécessiteront de l'équipement nécessaire, comme une montre connectée afin de calculer les pulsations cardiaques, à lier avec l'application. 
+
+L'élaboration de \textit{SportEasy} fait intervenir divers coûts. Tout d'abord, on a évidemment les coûts de développement, de hosting (serveurs, éventuels data centers) mais on a aussi les coûts des experts qui nous aideront dans le développement du domaine de l?application et à optimiser les performances de notre application grâce à leur connaissance et leur expertise. Il y aura également des coûts de maintenance à assurer à partir du premier \textit{release} de l'application. La maintenance se fera en fonction du feedback reçu par les utilisateurs du produit afin d'avoir un produit flexible et qui essaie de répondre le mieux possible aux attentes des utilisateurs.
+
+\chapter{Parties prenantes du projet}
+
+Ce chapitre va présenter tous les stakeholders, de près ou de loin, du projet. Nous avons décidé d'en faire un chapitre à part entière pour une question de clarté. Développer stakeholders
 
 \section{Client, customer and other stakeholders}
 
-Les clients seront des personnes du public sportif
+Les clients seront des personnes du public sportif ou des personnes voulant simplement se remettre en forme. 
 
-Dans les parties prenantes de notre système, on retrouve également les grosses chaines comme Basic Fit avec qui on peut établir un partenariat pour financer et promouvoir le projet. Nous pouvons également établir un partenariat avec des marques de sport connus. Dans les sponsors, on retrouvera aussi  des investisseurs qui pourront recevoir une part des bénéfices du projet. Les coachs sportif participent également à la réalisation de l'application puisque leur expertise sera nécessaire pour que l'application ai une bonne connaissance du domaine. 
+Dans les parties prenantes de notre système, on retrouve également les grosses chaines comme Basic Fit avec qui on peut établir un partenariat pour financer et promouvoir le projet. Nous pouvons également établir un partenariat avec des marques de sport connus. Dans les sponsors, on retrouvera aussi  des investisseurs qui pourront recevoir une part des bénéfices du projet. Les coachs sportif participent également à la réalisation de l'application puisque leur expertise sera nécessaire pour que l'application ait une bonne connaissance du domaine. 
 
-Il existe également des parties prenantes négatives qui seront contre un tel projet. Bien que certains coach sportifs devraient partager leur expertise du domaine, beaucoup iront à l'encontre du projet puisqu'il ne sont pas convaincu qu'un tel projet puisse se montrer concluant. De même, les petites salles de sport local sont également contre ce projet pour les même raisons. 
+Il existe également des parties prenantes négatives qui seront contre un tel projet. Bien que certains coach sportifs, faisant partie des partenaires, devraient partager leur expertise du domaine, beaucoup iront à l'encontre du projet. Effectivement, les experts sondés appartenant à une chaîne indépendante de taille clairement plus petite que nos partenaires ne sont pas convaincus qu'un tel projet puisse se montrer concluant. 
 
-\section{Users of the product}
+\section{Utilisateurs du produit}
 
-L'application est destiné à toute personne voulant débuter dans un sport sans avoir nécessairement les connaissances. Principalement, on retrouvera des clients de grosse chaine de salle de sport comme \textit{Basic Fit} ou encore \textit{Jims Fitness}. L'application devrait moins convenir aux personnes ayant déjà une certaine expertise comme les personnes pratiquant le sport depuis un certain temps. De même, l'application ne couvre pas seulement les sports en salle de fitness. Elle cherche à couvrir un maximum de sports individuels.
+L'application est destinée à toutes personnes voulant débuter dans un sport sans avoir nécessairement les connaissances. Principalement, on retrouvera des clients de grosse chaine de salle de sport comme \textit{Basic Fit} ou encore \textit{Jims Fitness}. L'application devrait moins convenir aux personnes ayant déjà une certaine expertise comme les personnes pratiquant le sport depuis un certain temps. De même, l'application ne couvre pas seulement les sports en salle de fitness. Elle cherche à couvrir un maximum de sports individuels.
+
+\section{Concurrents}
+
+Les principaux concurrents sont d'une part les applications et sites existants à ce sujet. Et d'autre part les coachs/gestionnaires de salle qui sont contre l'idée de créer un système qui pourrait les remplacer, ou contre l'utilisation des technologies en argumentant que la dimension sociale risque de disparaître. 
+
+\section{Avantage concurrentiel}
+
+Tout d'abord, on utilise des notions de \textit{machine learning} pour l'utilisateur afin de raffiner les séances proposées.On vise tout type de sport individuel donc il n'existe pas de réelle concurrence présentant les mêmes services. Les sites et applications existants dans ce domaine sont assez incomplets, statiques, et ne tiennent pas spécialement compte des performances précédentes. On a besoin d'une grande quantité d'échantillons de données. 
+Pour le lancement de notre application le mieux c'est de réaliser des formulaires en ligne que les clients des grosses firmes comme Basic Fit pourrait remplir et on les récupérer comme échantillons. Une fois l'application lancée, on essaierait de récupérer les données des utilisateurs pour remplacer petit à petit les échantillons de départ. On essaie alors de faire un bon compromis entre ces échantillons et les données d'un utilisateur pour améliorer ses séances.
+
+
+Utilisation de la gamification (badges, trophées) pour motiver l'utilisateur à continuer ses efforts. 
+
 
 \chapter{Project constraints}
 

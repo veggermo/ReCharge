@@ -1,0 +1,37 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Objectifs du projet}{3}
+\contentsline {section}{\numberline {1.1}But du projet}{3}
+\contentsline {section}{\numberline {1.2}Plan business du projet}{3}
+\contentsline {chapter}{\numberline {2}Parties prenantes du projet}{5}
+\contentsline {section}{\numberline {2.1}Client, customer and other stakeholders}{5}
+\contentsline {section}{\numberline {2.2}Utilisateurs du produit}{5}
+\contentsline {section}{\numberline {2.3}Concurrents}{6}
+\contentsline {section}{\numberline {2.4}Avantage concurrentiel}{6}
+\contentsline {chapter}{\numberline {3}Project constraints}{7}
+\contentsline {section}{\numberline {3.1}Mandated constraints}{7}
+\contentsline {section}{\numberline {3.2}Naming conventions and definitions}{7}
+\contentsline {section}{\numberline {3.3}Relevant facts and assumptions}{7}
+\contentsline {chapter}{\numberline {4}Functional requirements}{8}
+\contentsline {section}{\numberline {4.1}The scope of the work}{8}
+\contentsline {section}{\numberline {4.2}The scope of the product}{8}
+\contentsline {section}{\numberline {4.3}Functional and data requirements}{8}
+\contentsline {chapter}{\numberline {5}Non-functional requirements}{9}
+\contentsline {section}{\numberline {5.1}Look and feel requirements}{9}
+\contentsline {section}{\numberline {5.2}Usability and humanity requirements}{9}
+\contentsline {section}{\numberline {5.3}Performance requirements}{9}
+\contentsline {section}{\numberline {5.4}Operational requirements}{9}
+\contentsline {section}{\numberline {5.5}Maintainability and support requirements}{9}
+\contentsline {section}{\numberline {5.6}Security requirements}{9}
+\contentsline {section}{\numberline {5.7}Cultural and political requirements}{9}
+\contentsline {section}{\numberline {5.8}Legal requirements}{9}
+\contentsline {chapter}{\numberline {6}Project issues}{10}
+\contentsline {section}{\numberline {6.1}Open issues}{10}
+\contentsline {section}{\numberline {6.2}Off-the-shelf solution}{10}
+\contentsline {section}{\numberline {6.3}New problems}{10}
+\contentsline {section}{\numberline {6.4}Tasks}{10}
+\contentsline {section}{\numberline {6.5}Cutover}{10}
+\contentsline {section}{\numberline {6.6}Risks}{10}
+\contentsline {section}{\numberline {6.7}Costs}{10}
+\contentsline {section}{\numberline {6.8}User documentation and training}{10}
+\contentsline {section}{\numberline {6.9}Waiting room}{10}
+\contentsline {section}{\numberline {6.10}Ideas for solutions}{10}
