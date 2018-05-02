@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {2.2}Utilisateurs du produit}{5}
 \contentsline {section}{\numberline {2.3}Concurrents}{6}
 \contentsline {section}{\numberline {2.4}Avantage concurrentiel}{6}
-\contentsline {chapter}{\numberline {3}Project constraints}{7}
+\contentsline {chapter}{\numberline {3}Contraintes du projet}{7}
 \contentsline {section}{\numberline {3.1}Mandated constraints}{7}
 \contentsline {section}{\numberline {3.2}Naming conventions and definitions}{7}
 \contentsline {section}{\numberline {3.3}Relevant facts and assumptions}{7}
@@ -18,24 +18,26 @@
 \contentsline {subsection}{\numberline {4.3.1}Inscription dans le syst\`eme}{8}
 \contentsline {subsection}{\numberline {4.3.2}Didactitiel}{9}
 \contentsline {subsection}{\numberline {4.3.3}Utilisation normale (en s\'eance)}{9}
-\contentsline {subsection}{\numberline {4.3.4}Suppression d?exercices d'une s\'eance}{10}
-\contentsline {chapter}{\numberline {5}Non-functional requirements}{11}
-\contentsline {section}{\numberline {5.1}Look and feel requirements}{11}
-\contentsline {section}{\numberline {5.2}Usability and humanity requirements}{11}
-\contentsline {section}{\numberline {5.3}Performance requirements}{11}
-\contentsline {section}{\numberline {5.4}Operational requirements}{11}
-\contentsline {section}{\numberline {5.5}Maintainability and support requirements}{11}
-\contentsline {section}{\numberline {5.6}Security requirements}{11}
-\contentsline {section}{\numberline {5.7}Cultural and political requirements}{11}
-\contentsline {section}{\numberline {5.8}Legal requirements}{11}
-\contentsline {chapter}{\numberline {6}Project issues}{12}
-\contentsline {section}{\numberline {6.1}Open issues}{12}
-\contentsline {section}{\numberline {6.2}Off-the-shelf solution}{12}
-\contentsline {section}{\numberline {6.3}New problems}{12}
-\contentsline {section}{\numberline {6.4}Tasks}{12}
-\contentsline {section}{\numberline {6.5}Cutover}{12}
-\contentsline {section}{\numberline {6.6}Risks}{12}
-\contentsline {section}{\numberline {6.7}Costs}{12}
-\contentsline {section}{\numberline {6.8}User documentation and training}{13}
-\contentsline {section}{\numberline {6.9}Waiting room}{13}
-\contentsline {section}{\numberline {6.10}Ideas for solutions}{13}
+\contentsline {subsection}{\numberline {4.3.4}Mise \`a jour des donn\'ees (post-s\'eance)}{10}
+\contentsline {subsection}{\numberline {4.3.5}Suppression d'exercices d'une s\'eance}{11}
+\contentsline {subsection}{\numberline {4.3.6}Recherche d'un complexe sportif par un utilisateur}{11}
+\contentsline {chapter}{\numberline {5}Non-functional requirements}{12}
+\contentsline {section}{\numberline {5.1}Look and feel requirements}{12}
+\contentsline {section}{\numberline {5.2}Usability and humanity requirements}{12}
+\contentsline {section}{\numberline {5.3}Performance requirements}{12}
+\contentsline {section}{\numberline {5.4}Operational requirements}{12}
+\contentsline {section}{\numberline {5.5}Maintainability and support requirements}{12}
+\contentsline {section}{\numberline {5.6}Security requirements}{12}
+\contentsline {section}{\numberline {5.7}Cultural and political requirements}{12}
+\contentsline {section}{\numberline {5.8}Legal requirements}{12}
+\contentsline {chapter}{\numberline {6}Project issues}{13}
+\contentsline {section}{\numberline {6.1}Open issues}{13}
+\contentsline {section}{\numberline {6.2}Off-the-shelf solution}{13}
+\contentsline {section}{\numberline {6.3}New problems}{13}
+\contentsline {section}{\numberline {6.4}Tasks}{13}
+\contentsline {section}{\numberline {6.5}Cutover}{13}
+\contentsline {section}{\numberline {6.6}Risks}{13}
+\contentsline {section}{\numberline {6.7}Costs}{13}
+\contentsline {section}{\numberline {6.8}User documentation and training}{14}
+\contentsline {section}{\numberline {6.9}Waiting room}{14}
+\contentsline {section}{\numberline {6.10}Ideas for solutions}{14}
