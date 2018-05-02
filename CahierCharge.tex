@@ -106,7 +106,21 @@ User story : En tant qu'utilisateur, j'attribue une cotation pour chacun des cri
 
 \end{itshape}
 
-\subsection{Suppression d?exercices d'une séance}
+\subsection{Mise à jour des données (post-séance)}
+
+Une fois la séance terminé et validé par l'utilisateur, les données d'entrainement sont mis à jour à l'aide de plusieurs critère tels que l'impression générale, la difficulté, ou si la durée de l'entrainement a été respecté. Chaque critère est côté sur base d'une note sur 5 donnée par l'utilisateur. Dès que l'utilisateur a validé toutes ses notes, il peut les confirmer et retourner sur l'écran d'acceuil. L'application lui affiche un compteur de temps jusqu'à la prochaine séance "conseillé". L'utilisateur reçoit un badge toutes les 10 séances respectées et sa barre de progression est mis à jour.  
+
+\begin{figure}[!h]
+\centering
+\includegraphics[scale=0.3]{ihms/rating_before_update}
+\caption{Interface de mise à jour des données de post-séance}
+\end{figure} 
+
+\begin{itshape}
+En tant qu'utilisateur, j'attribue une cotation pour chacun des critères proposés pour améliorer le système dans sa globalité et le contenu des futures séances.
+\end{itshape}
+
+\subsection{Suppression d'exercices d'une séance}
 
 Lors de la génération de la séance, l'utilisateur peut cliquer sur une molette qui permettra de supprimer des exercices. Dans ce cas, une icône apparaît à côté de chaque exercice. Lorsqu?il clique dessus, il peut justifier son choix afin que l?exercice revienne dans les programmes dans plus ou moins longtemps.
 
@@ -116,6 +130,18 @@ Lors de la génération de la séance, l'utilisateur peut cliquer sur une molette q
 \caption{Suppression exercice}
 \end{figure}
 
+\begin{itshape}
+User story : En tant qu'utilisateur, je choisis de supprimer des exercices inintéressants pour m'offrir une séance optimale et donner un feedback pour la suite de ces séances.
+\end{itshape}
+
+\subsection{Recherche d'un complexe sportif par un utilisateur}
+
+L'utilisateur doit pouvoir sélectionner son sport, et selon sa localisation, l'application lui propose le complexe sportif adéquat à proximité. En cliquant dessus, quelques infos seront données, comme la fréquentation, le matériel mis à disposition?\\
+
+\begin{itshape}
+User story : En tant que système, je propose à l'utilisateur les complexes sportifs les plus proches correspondant aux exigences et à la localisation de celui-ci pour que l'utilisateur soit conseillé de la meilleure des manières.
+
+\end{itshape}
 
 %Remplissage d?un formulaire en rentrant ses données personnelles telles que son nom, prénom, adresse email, mot de passe ou alors inscription avec compte Google, Facebook.
 %Dès que cette inscription est faite, l?utilisateur doit ses caractéristiques personnelles (taille, poids), ses objectifs : menu déroulant avec différents choix comme remise en forme, perte de poids, plaisir, prise de masse?
