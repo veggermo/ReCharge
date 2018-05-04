@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  4 MAY 2018 10:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  4 MAY 2018 16:21
 entering extended mode
 **./CahierCharge.tex
 (CahierCharge.tex
@@ -657,26 +657,90 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  (Chapitre5.tex
 Chapitre 5.
-) [12
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+[12
 
 
 
 ]
+File: ihms/inscription.png Graphic file (type png)
+ <use ihms/inscription.png>
+Package pdftex.def Info: ihms/inscription.png used on input line 16.
+(pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
+File: ihms/caracteristiques.png Graphic file (type png)
+ <use ihms/caracteristiques.png>
+Package pdftex.def Info: ihms/caracteristiques.png used on input line 17.
+(pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
+File: ihms/seance.png Graphic file (type png)
+
+<use ihms/seance.png>
+Package pdftex.def Info: ihms/seance.png used on input line 18.
+(pdftex.def)             Requested size: 81.6055pt x 146.04675pt.
+File: ihms/normal_session.png Graphic file (type png)
+ <use ihms/normal_session.png>
+Package pdftex.def Info: ihms/normal_session.png used on input line 19.
+(pdftex.def)             Requested size: 81.90663pt x 144.5411pt.
+File: ihms/get_information_about_exo.png Graphic file (type png)
+
+<use ihms/get_information_about_exo.png>
+Package pdftex.def Info: ihms/get_information_about_exo.png used on input line 
+20.
+(pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
+File: ihms/remove_exo.png Graphic file (type png)
+ <use ihms/remove_exo.png>
+Package pdftex.def Info: ihms/remove_exo.png used on input line 21.
+(pdftex.def)             Requested size: 81.6055pt x 145.14337pt.
+File: ihms/rating_before_update.png Graphic file (type png)
+
+<use ihms/rating_before_update.png>
+Package pdftex.def Info: ihms/rating_before_update.png used on input line 22.
+(pdftex.def)             Requested size: 82.50888pt x 145.14337pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+[13]
+Overfull \hbox (2.61157pt too wide) in paragraph at lines 59--64
+[]\OT1/cmr/m/n/10 - Main-te-nance - Condi-tions speciales de la main-te-nance 
+- Exi-gences en matiere
+ []
+
+[14]) [15]
 \openout2 = `Chapitre6.aux'.
 
  (Chapitre6.tex
 Chapitre 6.
-) [13
+) [16
 
 
 
-] [14] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
+] [17] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
 (Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux)) ) 
 Here is how much of TeX's memory you used:
- 3023 strings out of 493334
- 41480 string characters out of 3136666
- 110601 words of memory out of 3000000
- 6470 multiletter control sequences out of 15000+200000
+ 3025 strings out of 493334
+ 41504 string characters out of 3136666
+ 110612 words of memory out of 3000000
+ 6472 multiletter control sequences out of 15000+200000
  7619 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,6n,30p,900b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -685,10 +749,11 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb>
-Output written on CahierCharge.pdf (15 pages, 771669 bytes).
+ic/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb>
+Output written on CahierCharge.pdf (18 pages, 786043 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
