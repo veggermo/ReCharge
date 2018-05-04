@@ -1,4 +1,4 @@
-\babel@toc {french}{}
+\select@language {french}
 \contentsline {chapter}{\numberline {1}Objectifs du projet}{3}
 \contentsline {section}{\numberline {1.1}But du projet}{3}
 \contentsline {section}{\numberline {1.2}Plan business du projet}{3}
@@ -15,11 +15,11 @@
 \contentsline {section}{\numberline {4.1}The scope of the work}{8}
 \contentsline {section}{\numberline {4.2}The scope of the product}{8}
 \contentsline {section}{\numberline {4.3}Functional and data requirements}{8}
-\contentsline {subsection}{\numberline {4.3.1}Inscription dans le syst\`eme}{8}
+\contentsline {subsection}{\numberline {4.3.1}Inscription dans le syst\IeC {\`e}me}{8}
 \contentsline {subsection}{\numberline {4.3.2}Didactitiel}{9}
-\contentsline {subsection}{\numberline {4.3.3}Utilisation normale (en s\'eance)}{9}
-\contentsline {subsection}{\numberline {4.3.4}Mise \`a jour des donn\'ees (post-s\'eance)}{10}
-\contentsline {subsection}{\numberline {4.3.5}Suppression d'exercices d'une s\'eance}{11}
+\contentsline {subsection}{\numberline {4.3.3}Utilisation normale (en s\IeC {\'e}ance)}{9}
+\contentsline {subsection}{\numberline {4.3.4}Mise \IeC {\`a} jour des donn\IeC {\'e}es (post-s\IeC {\'e}ance)}{10}
+\contentsline {subsection}{\numberline {4.3.5}Suppression d'exercices d'une s\IeC {\'e}ance}{11}
 \contentsline {subsection}{\numberline {4.3.6}Recherche d'un complexe sportif par un utilisateur}{11}
 \contentsline {chapter}{\numberline {5}Non-functional requirements}{12}
 \contentsline {section}{\numberline {5.1}Look and feel requirements}{12}
