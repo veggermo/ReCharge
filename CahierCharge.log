@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  4 MAY 2018 10:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  4 MAY 2018 10:22
 entering extended mode
 **./CahierCharge.tex
 (CahierCharge.tex
@@ -336,13 +336,6 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2016/04/23 3.9r The Babel package
 
@@ -419,21 +412,26 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
 \openout1 = `CahierCharge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Info: Redefining \degres on input line 10.
-LaTeX Info: Redefining \dots on input line 10.
-LaTeX Info: Redefining \up on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Info: Redefining \degres on input line 9.
+LaTeX Info: Redefining \dots on input line 9.
+LaTeX Info: Redefining \up on input line 9.
+
+
+Package frenchb.ldf Warning: OT1 encoding should not be used for French.
+(frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
+(frenchb.ldf)                of your document, on input line 9.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -528,10 +526,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  (Chapitre1.tex
 Chapitre 1.
+
+Overfull \hbox (11.58382pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 ti-culierement les per-sonnes qui sou-haite se lan-cer dans un
+ sport sans necessairement
+ []
+
 [3
 
 
-]) [4]
+])
+Overfull \hbox (7.27824pt too wide) in paragraph at lines 15--15
+\OT1/cmr/m/n/10 nus deblocables se-ront eux payants car ils necessiteront de 
+l'equipement necessaire,
+ []
+
+[4]
 \openout2 = `Chapitre2.aux'.
 
  (Chapitre2.tex
@@ -554,14 +564,14 @@ Chapitre 3.
 
  (Chapitre4.tex
 Chapitre 4.
-<ihms/inscription.png, id=41, 273.02pt x 483.8075pt>
+<ihms/inscription.png, id=37, 273.02pt x 483.8075pt>
 File: ihms/inscription.png Graphic file (type png)
 
 <use ihms/inscription.png>
 Package pdftex.def Info: ihms/inscription.png used on input line 14.
 (pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
 
-<ihms/caracteristiques.png, id=42, 273.02pt x 483.8075pt>
+<ihms/caracteristiques.png, id=38, 273.02pt x 483.8075pt>
 File: ihms/caracteristiques.png Graphic file (type png)
 
 <use ihms/caracteristiques.png>
@@ -576,25 +586,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-<ihms/seance.png, id=49, 272.01625pt x 486.81876pt>
+<ihms/seance.png, id=44, 272.01625pt x 486.81876pt>
 File: ihms/seance.png Graphic file (type png)
  <use ihms/seance.png>
 Package pdftex.def Info: ihms/seance.png used on input line 47.
 (pdftex.def)             Requested size: 81.6055pt x 146.04675pt.
 
-<ihms/seance2.png, id=50, 274.02374pt x 483.8075pt>
+<ihms/seance2.png, id=45, 274.02374pt x 483.8075pt>
 File: ihms/seance2.png Graphic file (type png)
  <use ihms/seance2.png>
 Package pdftex.def Info: ihms/seance2.png used on input line 48.
 (pdftex.def)             Requested size: 82.20775pt x 145.14337pt.
 
-<ihms/seance3.png, id=51, 272.01625pt x 480.79625pt>
+<ihms/seance3.png, id=46, 272.01625pt x 480.79625pt>
 File: ihms/seance3.png Graphic file (type png)
  <use ihms/seance3.png>
 Package pdftex.def Info: ihms/seance3.png used on input line 49.
 (pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
 
-<ihms/seance4.png, id=52, 271.0125pt x 482.80376pt>
+<ihms/seance4.png, id=47, 271.0125pt x 482.80376pt>
 File: ihms/seance4.png Graphic file (type png)
  <use ihms/seance4.png>
 Package pdftex.def Info: ihms/seance4.png used on input line 50.
@@ -604,14 +614,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
-<ihms/normal_session.png, id=53, 273.02pt x 481.8pt>
+<ihms/normal_session.png, id=48, 273.02pt x 481.8pt>
 File: ihms/normal_session.png Graphic file (type png)
 
 <use ihms/normal_session.png>
 Package pdftex.def Info: ihms/normal_session.png used on input line 58.
 (pdftex.def)             Requested size: 81.90663pt x 144.5411pt.
 
-<ihms/get_information_about_exo.png, id=54, 272.01625pt x 480.79625pt>
+<ihms/get_information_about_exo.png, id=49, 272.01625pt x 480.79625pt>
 File: ihms/get_information_about_exo.png Graphic file (type png)
 
 <use ihms/get_information_about_exo.png>
@@ -623,7 +633,7 @@ Package pdftex.def Info: ihms/get_information_about_exo.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [9 <./ihms/seance.png> <./ihms/seance2.png> <./ihms/seance3.png> <./ihms/seance
-4.png>] <ihms/rating_before_update.png, id=62, 275.0275pt x 483.8075pt>
+4.png>] <ihms/rating_before_update.png, id=57, 275.0275pt x 483.8075pt>
 File: ihms/rating_before_update.png Graphic file (type png)
 
 <use ihms/rating_before_update.png>
@@ -631,7 +641,7 @@ Package pdftex.def Info: ihms/rating_before_update.png used on input line 75.
 (pdftex.def)             Requested size: 82.50888pt x 145.14337pt.
  [10 <./ihms/normal_session.png> <./ihms/get_information_about_exo.png> <./ihms
 /rating_before_update.png>]
-<ihms/remove_exo.png, id=69, 272.01625pt x 483.8075pt>
+<ihms/remove_exo.png, id=64, 272.01625pt x 483.8075pt>
 File: ihms/remove_exo.png Graphic file (type png)
 
 <use ihms/remove_exo.png>
@@ -663,29 +673,22 @@ Chapitre 6.
 ] [14] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
 (Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux)) ) 
 Here is how much of TeX's memory you used:
- 3229 strings out of 493334
- 43009 string characters out of 3136666
- 110696 words of memory out of 3000000
- 6663 multiletter control sequences out of 15000+200000
- 14067 words of font info for 28 fonts, out of 3000000 for 9000
+ 3023 strings out of 493334
+ 41480 string characters out of 3136666
+ 110601 words of memory out of 3000000
+ 6470 multiletter control sequences out of 15000+200000
+ 7619 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,30p,899b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Am
-élie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> 
-<C:\Users\Amélie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-cbx1440.pk> <C:\Users\Amélie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
-\ec\dpi600\ecbx2074.pk> <C:\Users\Amélie\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\Amélie\AppData\Local\MiKTeX\2.9\
-fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\Amélie\AppData\Local
-\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1000.pk> <C:\Users\Amélie\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Use
-rs\Amélie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000
-.pk> <C:\Users\Amélie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
-600\eccc1440.pk> <C:\Users\Amélie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
-appen\ec\dpi600\eccc1728.pk>
-Output written on CahierCharge.pdf (15 pages, 807633 bytes).
+ 40i,6n,30p,900b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb>
+Output written on CahierCharge.pdf (15 pages, 771669 bytes).
 PDF statistics:
- 465 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
