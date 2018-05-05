@@ -24,20 +24,18 @@
 \contentsline {chapter}{\numberline {5}Exigences non fonctionnelles}{12}
 \contentsline {section}{\numberline {5.1}Ergonomie et convivialit\IeC {\'e} du produit}{12}
 \contentsline {section}{\numberline {5.2}Facilit\IeC {\'e} d'utilisation et facteurs humains}{14}
-\contentsline {section}{\numberline {5.3}Performances du produit}{16}
-\contentsline {section}{\numberline {5.4}Ad\IeC {\'e}quation du produit avec son environnement}{16}
-\contentsline {section}{\numberline {5.5}Maintenance et support du produit}{16}
-\contentsline {section}{\numberline {5.6}S\IeC {\'e}curit\IeC {\'e}}{16}
-\contentsline {section}{\numberline {5.7}Exigences culturelles et politiques}{16}
-\contentsline {section}{\numberline {5.8}Lois et standards}{16}
-\contentsline {chapter}{\numberline {6}Project issues}{17}
-\contentsline {section}{\numberline {6.1}Open issues}{17}
-\contentsline {section}{\numberline {6.2}Off-the-shelf solution}{17}
-\contentsline {section}{\numberline {6.3}New problems}{17}
-\contentsline {section}{\numberline {6.4}Tasks}{17}
-\contentsline {section}{\numberline {6.5}Cutover}{17}
-\contentsline {section}{\numberline {6.6}Risks}{17}
-\contentsline {section}{\numberline {6.7}Costs}{17}
-\contentsline {section}{\numberline {6.8}User documentation and training}{18}
-\contentsline {section}{\numberline {6.9}Waiting room}{18}
-\contentsline {section}{\numberline {6.10}Ideas for solutions}{18}
+\contentsline {section}{\numberline {5.3}Fonctionnement du produit}{16}
+\contentsline {section}{\numberline {5.4}Ad\IeC {\'e}quation du produit avec son environnement}{17}
+\contentsline {section}{\numberline {5.5}Maintenance et support du produit}{17}
+\contentsline {section}{\numberline {5.6}S\IeC {\'e}curit\IeC {\'e}}{18}
+\contentsline {chapter}{\numberline {6}Project issues}{20}
+\contentsline {section}{\numberline {6.1}Open issues}{20}
+\contentsline {section}{\numberline {6.2}Off-the-shelf solution}{20}
+\contentsline {section}{\numberline {6.3}New problems}{20}
+\contentsline {section}{\numberline {6.4}Tasks}{20}
+\contentsline {section}{\numberline {6.5}Cutover}{20}
+\contentsline {section}{\numberline {6.6}Risks}{20}
+\contentsline {section}{\numberline {6.7}Costs}{20}
+\contentsline {section}{\numberline {6.8}User documentation and training}{21}
+\contentsline {section}{\numberline {6.9}Waiting room}{21}
+\contentsline {section}{\numberline {6.10}Ideas for solutions}{21}

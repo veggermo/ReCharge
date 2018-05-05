@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  5 MAY 2018 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  5 MAY 2018 14:15
 entering extended mode
 **./CahierCharge.tex
 (CahierCharge.tex
@@ -754,21 +754,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
  []
 
 [15]
-Overfull \hbox (2.61157pt too wide) in paragraph at lines 84--89
-[]\OT1/cmr/m/n/10 - Main-te-nance - Condi-tions speciales de la main-te-nance 
-- Exi-gences en matiere
+Overfull \hbox (9.69502pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 percue par l'uti-li-sa-teur. Bien que le chan-ge-ment d'in-ter
+-faces n'est pas pa-rametrable
  []
 
-) [16]
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Overfull \hbox (1.36159pt too wide) in paragraph at lines 79--80
+[]\OT1/cmr/m/n/10 Le ser-veur s'oc-cu-pera de trai-ter les donnees four-nies p
+ar l'uti-li-sa-teur (stockees
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Overfull \hbox (4.91713pt too wide) in paragraph at lines 98--99
+[]\OT1/cmr/m/n/10 Le pro-duit va de paire avec un help desk. Celui-ci sera ac-c
+es-sible par telephone,
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+) [19]
 \openout2 = `Chapitre6.aux'.
 
  (Chapitre6.tex
 Chapitre 6.
-) [17
+) [20
 
 
 
-] [18] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
+] [21] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
 (Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
 
 LaTeX Font Warning: Size substitutions with differences
@@ -790,9 +847,9 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
-Output written on CahierCharge.pdf (19 pages, 799979 bytes).
+Output written on CahierCharge.pdf (22 pages, 807320 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
