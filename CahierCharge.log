@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  4 MAY 2018 16:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  5 MAY 2018 11:47
 entering extended mode
 **./CahierCharge.tex
 (CahierCharge.tex
@@ -720,40 +720,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
  []
 
 [13]
-Overfull \hbox (2.61157pt too wide) in paragraph at lines 59--64
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.49994> not available
+(Font)              size <6> substituted on input line 44.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+[15]
+Overfull \hbox (2.61157pt too wide) in paragraph at lines 84--89
 []\OT1/cmr/m/n/10 - Main-te-nance - Condi-tions speciales de la main-te-nance 
 - Exi-gences en matiere
  []
 
-[14]) [15]
+) [16]
 \openout2 = `Chapitre6.aux'.
 
  (Chapitre6.tex
 Chapitre 6.
-) [16
+) [17
 
 
 
-] [17] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
-(Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux)) ) 
+] [18] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
+(Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.49994pt have occurred.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3025 strings out of 493334
- 41504 string characters out of 3136666
- 110612 words of memory out of 3000000
- 6472 multiletter control sequences out of 15000+200000
- 7619 words of font info for 27 fonts, out of 3000000 for 9000
+ 3031 strings out of 493334
+ 41573 string characters out of 3136666
+ 111612 words of memory out of 3000000
+ 6476 multiletter control sequences out of 15000+200000
+ 7920 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,30p,900b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb>
-Output written on CahierCharge.pdf (18 pages, 786043 bytes).
+ 40i,6n,30p,1148b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti10.pfb>
+Output written on CahierCharge.pdf (19 pages, 799979 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

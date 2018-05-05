@@ -33,21 +33,43 @@ De même, bien que l'application soit destinée à toute personne souhaitant fai
 Enfin, il est important que le produit suscite l'envie de faire du sport et stimule la motivation de l'utilisateur. Pour se faire, il doit employer un design frais, dynamique et énergétique tout en étant présenté de façon motivante. Le tout est que l'utilisateur ait envie de se lever pour faire du sport à peine ayant eu accès à l'application.
 
 \section{Facilité d'utilisation et facteurs humains}
-- Facilité d'utilisation
-- Personnalisation
-- Facilité d'apprentissage
-- Facilité de compréhension et de politesse
-- Exigences d'accessibilité
+Le produit étant destiné à être utilisé par des personnes, non formées pour l'occasion, il est important de définir des exigences d'utilisation ; notamment la facilité d'emploi et d'apprentissage.
 
-\section{Performances du produit}
-- Rapidité et temps de latence
-- Sécurité
-- Précision et exactitude
-- Fiabilité et disponibilité
-- Robustesse et tolérance à un emploi erroné
-- Capacité de stockage et montée en charge
-- Adaptation du produit à une augmentation de volume à gérer
-- Longévité
+\subsection*{Facilité d'utilisation}
+Les fonctionnalités du produit devraient être très simples. Comme mentionné précédemment, l'utilisateur souhaitant démarrer une séance de sport ne veut pas perdre 30 minutes de son temps à la configurer, ce qui lui laisserait effectivement moins de temps pour faire un entrainement. Dès lors, les points suivants doivent être respectés :\\
+
+\begin{itemize}
+	\item \textbf{Efficacité de la prise en main :} l'utilisateur doit être capable de prendre en main l'application et d'en utiliser toutes les fonctionnalités très rapidement. Dès lors, la prise en main sera plus longue (didacticiel d'emploi) et des pré-réglages seront stockés pour que la prise en main soit très rapide. Dès lors, après les 20 premières minutes d'utilisation de l'application, l'utilisateur est supposé savoir utiliser cette dernière parfaitement et rapidement.\\
+	
+	\item \textbf{Facilité de mémorisation :} l'application est supposée être intuitive pour être utilisée directement, sans besoin de formation particulière. Dès lors, il est considéré que l'utilisateur devrait être capable de se remémorer l'emploi d'une fonctionnalité après la 1\iere{} utilisation. Cependant, le produit étant destiné à des personnes de tout âge et de tout milieu, la limite sera fixée pour 3 utilisations de chaque fonctionnalité pour être certain que l'utilisateur se souvienne bien comment chaque fonctionnalité s'emploie.\\
+	
+	\item \textbf{Taux d'erreur :} l'utilisateur peut commettre des erreurs, cependant cela risque d'influencer en mal ses performances et donc biaiser l'application et sa fonctionnalité à proposer des séances adaptées. Ainsi, il existe 3 types d'erreurs, classées de bénignes à \og grave \fg{}. La première, c'est de se tromper dans la configuration de sa séance de sport. Il faut alors couper l'application et la relancer, cela fait perdre son temps à l'utilisateur. La seconde est le fait de se tromper dans le feedback fournit à la fin de la séance. Bien qu'il est rare de rencontrer ce cas, s'il se produit, l'adaptation de la séance ne sera pas efficace. Enfin, l'utilisateur peut couper l'application avant d'avoir terminé et validé sa séance. Dans ce cas, l'application ne pourra mettre à jour ses données et se comporter de façon efficace pour les prochains entrainements, ce qui est déplorable. Dès lors, il est nécessaire que le taux d'erreur global ne dépasse pas les 5\% en 1 mois d'utilisation afin de ne pas entacher le comportement normal du produit.\\
+	
+	\item \textbf{Satisfaction globale :} grâce aux feedbacks fournis par les fournisseurs d'applications mobiles (Play Store, Apple Store, ...), il est aisé de mesurer la satisfaction globale de l'utilisateur. Dès lors, il est important que l'application ne descende pas en dessous d'une satisfaction générale de 80\% endéans des 6 premiers mois.
+\end{itemize}
+
+\subsection*{Facilité d'apprentissage}
+Comme expliqué ci-avant, le produit doit être facilement utilisable afin que l'utilisateur ne perde pas du temps précieux pour le configurer. De même, il faut tenir compte du fait que l'utilisateur normal est un adulte lambda qui ne doit présenter aucune qualification particulière pour employer l'application. Ainsi, un didacticiel sera mis en place afin que toute personne capable de lire puisse comprendre les étapes nécessaires à la configuration de la séance.\\
+
+Très vite, le public doit être capable d'employer le produit sans devoir chercher. Au bout de 3 utilisations (répétition des mêmes mouvements), l'utilisateur doit être capable de configurer sa séance en toute maîtrise en 5 minutes maximum.
+
+\subsection*{Facilité de compréhension et politesse}
+Le produit n'est pas destiné à un professionnel du sport. Cela signifie qu'un amateur, un novice, peut souhaiter l'employer afin de s'entrainer. S'il connait certains termes techniques, tous les sens lui échappent sûrement. Cependant, il ne serait pas professionnel d'employer un vocabulaire infantile à la place. Pour s'assurer de la compréhension du vocabulaire sportif, des schémas ou vidéos explicatifs doivent être disponibles si l'utilisateur clique sur un des exercices.\\
+
+Par ailleurs, il est aussi primordial de cacher les détails d'implémentation et de s'assurer qu'aucune exception n'apparaitra à l'utilisateur en tant que telle, dans un langage \og hérétique \fg{}. Toute exception devra être transformée en un message d'erreur clair et concis dans la langue de l'utilisateur.
+
+\section{Fonctionnement du produit}
+Ce chapitre traite des performances du produit quant à diverses données.
+
+
+%- Rapidité et temps de latence
+%- Sécurité
+%- Précision et exactitude
+%- Fiabilité et disponibilité
+%- Robustesse et tolérance à un emploi erroné
+%- Capacité de stockage et montée en charge
+%- Adaptation du produit à une augmentation de volume à gérer
+%- Longévité
 
 \section{Adéquation du produit avec son environnement}
 - Environnement physique
