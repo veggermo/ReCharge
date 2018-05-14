@@ -7,3 +7,14 @@
 \contentsline {section}{\numberline {2.2}Clients utilisateurs du produit}{4}
 \contentsline {section}{\numberline {2.3}Stakeholders n\IeC {\'e}gatifs}{5}
 \contentsline {section}{\numberline {2.4}Concurrents et avantage concurrentiel}{5}
+\contentsline {chapter}{\numberline {3}Contraintes du projet}{7}
+\contentsline {section}{\numberline {3.1}Li\IeC {\'e}es au domaine sportif}{7}
+\contentsline {section}{\numberline {3.2}Li\IeC {\'e}es au \textit {machine learning}}{7}
+\contentsline {section}{\numberline {3.3}Contraintes mat\IeC {\'e}rielles}{7}
+\contentsline {subsection}{\numberline {3.3.1}OS Mobiles}{7}
+\contentsline {subsection}{\numberline {3.3.2}Mat\IeC {\'e}riel sportif}{7}
+\contentsline {section}{\numberline {3.4}Contraintes de connexion}{8}
+\contentsline {section}{\numberline {3.5}Contraintes budg\IeC {\'e}taires}{8}
+\contentsline {section}{\numberline {3.6}Contraintes d'identification}{8}
+\contentsline {section}{\numberline {3.7}Contraintes de langue utilis\IeC {\'e}e}{8}
+\contentsline {section}{\numberline {3.8}Li\IeC {\'e}es au comportement de l'utilisateur}{8}
