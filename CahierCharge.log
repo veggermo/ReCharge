@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.18)  14 MAY 2018 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.18)  14 MAY 2018 17:24
 entering extended mode
 **./CahierCharge.tex
 (CahierCharge.tex
@@ -418,8 +418,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
-) (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
-(Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
+) (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux))
 \openout1 = `CahierCharge.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -544,14 +543,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 3.
- [1
-
-
-])
+)
 \tf@toc=\write3
 \openout3 = `CahierCharge.toc'.
 
- [2]
+ [1
+
+
+]
 \openout2 = `Chapitre1.aux'.
 
 
@@ -563,7 +562,7 @@ Overfull \hbox (11.58382pt too wide) in paragraph at lines 9--10
  sport sans necessairement
  []
 
-[3
+[2
 
 
 ])
@@ -572,459 +571,34 @@ Overfull \hbox (7.27824pt too wide) in paragraph at lines 15--16
 l'equipement necessaire,
  []
 
-[4]
+[3]
 \openout2 = `Chapitre2.aux'.
 
  (Chapitre2.tex
 Chapitre 2.
-[5
+[4
 
 
 
-]) [6]
-\openout2 = `Chapitre3.aux'.
-
- (Chapitre3.tex
-Chapitre 3.
-) [7
-
-
-
-]
-\openout2 = `Chapitre4.aux'.
-
- (Chapitre4.tex
-Chapitre 4.
-
-! LaTeX Error: File `ihms/inscription' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \includegraphics[scale=0.3]{ihms/inscription}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/caracteristiques' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 ...graphics[scale=0.3]{ihms/caracteristiques}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-
- []
-
-[8
-
-
-
-]
-
-! LaTeX Error: File `ihms/seance' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \includegraphics[scale=0.3]{ihms/seance}
-                                             
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/seance2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \includegraphics[scale=0.3]{ihms/seance2}
-                                              
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/seance3' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 \includegraphics[scale=0.3]{ihms/seance3}
-                                              
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/seance4' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 \includegraphics[scale=0.3]{ihms/seance4}
-                                              
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-
-! LaTeX Error: File `ihms/normal_session' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 ...degraphics[scale=0.3]{ihms/normal_session}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/get_information_about_exo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.60 ...scale=0.3]{ihms/get_information_about_exo}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/rating_before_update' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 ...hics[scale=0.3]{ihms/rating_before_update}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[9]
-
-! LaTeX Error: File `ihms/remove_exo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.89 \includegraphics[scale=0.3]{ihms/remove_exo}
-                                                 
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
-
- []
-
-) [10]
-\openout2 = `Chapitre5.aux'.
-
- (Chapitre5.tex
-Chapitre 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
-[11
-
-
-
-]
-
-! LaTeX Error: File `ihms/inscription' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 ...cludegraphics[scale=0.3]{ihms/inscription}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/caracteristiques' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 ...graphics[scale=0.3]{ihms/caracteristiques}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/seance' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 	\includegraphics[scale=0.3]{ihms/seance}
-                                              
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/normal_session' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 ...degraphics[scale=0.3]{ihms/normal_session}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/get_information_about_exo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...scale=0.3]{ihms/get_information_about_exo}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/remove_exo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 	\includegraphics[scale=0.3]{ihms/remove_exo}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `ihms/rating_before_update' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ...hics[scale=0.3]{ihms/rating_before_update}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.49994> not available
-(Font)              size <6> substituted on input line 44.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
-
-Overfull \hbox (9.69502pt too wide) in paragraph at lines 65--66
-\OT1/cmr/m/n/10 percue par l'uti-li-sa-teur. Bien que le chan-ge-ment d'in-ter
--faces n'est pas pa-rametrable
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Overfull \hbox (1.36159pt too wide) in paragraph at lines 79--80
-[]\OT1/cmr/m/n/10 Le ser-veur s'oc-cu-pera de trai-ter les donnees four-nies p
-ar l'uti-li-sa-teur (stockees
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-
- []
-
-[15]
-Overfull \hbox (4.91713pt too wide) in paragraph at lines 98--99
-[]\OT1/cmr/m/n/10 Le pro-duit va de paire avec un help desk. Celui-ci sera ac-c
-es-sible par telephone,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
-
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-) [17]
-\openout2 = `Chapitre6.aux'.
-
- (Chapitre6.tex
-Chapitre 6.
-) [18
-
-
-
-] [19] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
-(Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.49994pt have occurred.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+]) [5] [6] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)) ) 
 Here is how much of TeX's memory you used:
- 3091 strings out of 493305
- 44533 string characters out of 3129802
- 112896 words of memory out of 3000000
- 6542 multiletter control sequences out of 15000+200000
- 7920 words of font info for 28 fonts, out of 3000000 for 9000
+ 3021 strings out of 493305
+ 43292 string characters out of 3129802
+ 110951 words of memory out of 3000000
+ 6525 multiletter control sequences out of 15000+200000
+ 7014 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,30p,1148b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/romai/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/romai/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/roma
-i/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C
-:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmti10.pfb>
-Output written on CahierCharge.pdf (20 pages, 184156 bytes).
+ 41i,5n,30p,1036b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/
+Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><C:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/romai/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/romai/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on CahierCharge.pdf (7 pages, 124163 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
