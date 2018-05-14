@@ -1,12 +1,13 @@
-\select@language {french}
+\babel@toc {french}{}
 \contentsline {chapter}{\numberline {1}Objectifs du projet}{3}
 \contentsline {section}{\numberline {1.1}But du projet}{3}
 \contentsline {section}{\numberline {1.2}Plan business du projet}{3}
 \contentsline {chapter}{\numberline {2}Parties prenantes du projet}{5}
-\contentsline {section}{\numberline {2.1}Client, customer and other stakeholders}{5}
+\contentsline {section}{\numberline {2.1}Partenaires}{5}
 \contentsline {section}{\numberline {2.2}Utilisateurs du produit}{5}
-\contentsline {section}{\numberline {2.3}Concurrents}{6}
-\contentsline {section}{\numberline {2.4}Avantage concurrentiel}{6}
+\contentsline {section}{\numberline {2.3}Stakeholders n\IeC {\'e}gatifs}{6}
+\contentsline {section}{\numberline {2.4}Concurrents}{6}
+\contentsline {section}{\numberline {2.5}Avantage concurrentiel}{6}
 \contentsline {chapter}{\numberline {3}Contraintes du projet}{7}
 \contentsline {section}{\numberline {3.1}Mandated constraints}{7}
 \contentsline {section}{\numberline {3.2}Naming conventions and definitions}{7}
@@ -16,26 +17,26 @@
 \contentsline {section}{\numberline {4.2}The scope of the product}{8}
 \contentsline {section}{\numberline {4.3}Functional and data requirements}{8}
 \contentsline {subsection}{\numberline {4.3.1}Inscription dans le syst\IeC {\`e}me}{8}
-\contentsline {subsection}{\numberline {4.3.2}Didactitiel}{9}
+\contentsline {subsection}{\numberline {4.3.2}Didactitiel}{8}
 \contentsline {subsection}{\numberline {4.3.3}Utilisation normale (en s\IeC {\'e}ance)}{9}
-\contentsline {subsection}{\numberline {4.3.4}Mise \IeC {\`a} jour des donn\IeC {\'e}es (post-s\IeC {\'e}ance)}{10}
-\contentsline {subsection}{\numberline {4.3.5}Suppression d'exercices d'une s\IeC {\'e}ance}{11}
-\contentsline {subsection}{\numberline {4.3.6}Recherche d'un complexe sportif par un utilisateur}{11}
-\contentsline {chapter}{\numberline {5}Exigences non fonctionnelles}{12}
-\contentsline {section}{\numberline {5.1}Ergonomie et convivialit\IeC {\'e} du produit}{12}
-\contentsline {section}{\numberline {5.2}Facilit\IeC {\'e} d'utilisation et facteurs humains}{14}
-\contentsline {section}{\numberline {5.3}Fonctionnement du produit}{16}
-\contentsline {section}{\numberline {5.4}Ad\IeC {\'e}quation du produit avec son environnement}{17}
-\contentsline {section}{\numberline {5.5}Maintenance et support du produit}{17}
-\contentsline {section}{\numberline {5.6}S\IeC {\'e}curit\IeC {\'e}}{18}
-\contentsline {chapter}{\numberline {6}Project issues}{20}
-\contentsline {section}{\numberline {6.1}Open issues}{20}
-\contentsline {section}{\numberline {6.2}Off-the-shelf solution}{20}
-\contentsline {section}{\numberline {6.3}New problems}{20}
-\contentsline {section}{\numberline {6.4}Tasks}{20}
-\contentsline {section}{\numberline {6.5}Cutover}{20}
-\contentsline {section}{\numberline {6.6}Risks}{20}
-\contentsline {section}{\numberline {6.7}Costs}{20}
-\contentsline {section}{\numberline {6.8}User documentation and training}{21}
-\contentsline {section}{\numberline {6.9}Waiting room}{21}
-\contentsline {section}{\numberline {6.10}Ideas for solutions}{21}
+\contentsline {subsection}{\numberline {4.3.4}Mise \IeC {\`a} jour des donn\IeC {\'e}es (post-s\IeC {\'e}ance)}{9}
+\contentsline {subsection}{\numberline {4.3.5}Suppression d'exercices d'une s\IeC {\'e}ance}{10}
+\contentsline {subsection}{\numberline {4.3.6}Recherche d'un complexe sportif par un utilisateur}{10}
+\contentsline {chapter}{\numberline {5}Exigences non fonctionnelles}{11}
+\contentsline {section}{\numberline {5.1}Ergonomie et convivialit\IeC {\'e} du produit}{11}
+\contentsline {section}{\numberline {5.2}Facilit\IeC {\'e} d'utilisation et facteurs humains}{12}
+\contentsline {section}{\numberline {5.3}Fonctionnement du produit}{14}
+\contentsline {section}{\numberline {5.4}Ad\IeC {\'e}quation du produit avec son environnement}{15}
+\contentsline {section}{\numberline {5.5}Maintenance et support du produit}{16}
+\contentsline {section}{\numberline {5.6}S\IeC {\'e}curit\IeC {\'e}}{16}
+\contentsline {chapter}{\numberline {6}Project issues}{18}
+\contentsline {section}{\numberline {6.1}Open issues}{18}
+\contentsline {section}{\numberline {6.2}Off-the-shelf solution}{18}
+\contentsline {section}{\numberline {6.3}New problems}{18}
+\contentsline {section}{\numberline {6.4}Tasks}{18}
+\contentsline {section}{\numberline {6.5}Cutover}{18}
+\contentsline {section}{\numberline {6.6}Risks}{18}
+\contentsline {section}{\numberline {6.7}Costs}{18}
+\contentsline {section}{\numberline {6.8}User documentation and training}{19}
+\contentsline {section}{\numberline {6.9}Waiting room}{19}
+\contentsline {section}{\numberline {6.10}Ideas for solutions}{19}

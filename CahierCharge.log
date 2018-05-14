@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  5 MAY 2018 14:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.18)  14 MAY 2018 16:47
 entering extended mode
 **./CahierCharge.tex
 (CahierCharge.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,21 +21,20 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+) ("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
+y"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+ ("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -247,6 +246,8 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
    defining Unicode char U+1E02 (decimal 7682)
    defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
@@ -267,12 +268,14 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -312,8 +315,8 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -335,181 +338,208 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-))
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2016/04/23 3.9r The Babel package
+)) ("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.s
+ty"
+Package: babel 2018/02/14 3.18 The Babel package
 
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+"
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-french\frenchb.ldf"
-Language: frenchb 2016/05/14 v3.2c French support from the babel system
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel-french\fre
+nch.ldf"
+Language: french 2018/02/04 v3.4b French support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2016/04/23 3.9r Babel common definitions
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/02/14 3.18 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count89
 )
 \l@acadian = a dialect from \language\l@french 
-\l@canadien = a dialect from \language\l@french 
-\FB@nonchar=\count89
-\FBcolonskip=\skip43
-\FBthinskip=\skip44
-Package babel Info: Making : an active character on input line 365.
-Package babel Info: Making ; an active character on input line 366.
-Package babel Info: Making ! an active character on input line 367.
-Package babel Info: Making ? an active character on input line 368.
-\FBguillskip=\skip45
-\FBguill@level=\count90
+\FB@nonchar=\count90
+Package babel Info: Making : an active character on input line 411.
+Package babel Info: Making ; an active character on input line 412.
+Package babel Info: Making ! an active character on input line 413.
+Package babel Info: Making ? an active character on input line 414.
+\FBguill@level=\count91
 \FB@everypar=\toks16
 \FB@Mht=\dimen104
-\std@mcc=\count91
-\dec@mcc=\count92
-\listindentFB=\skip46
-\labelwidthFB=\skip47
-\leftmarginFB=\skip48
+\mc@charclass=\count92
+\mc@charfam=\count93
+\mc@charslot=\count94
+\std@mcc=\count95
+\dec@mcc=\count96
+\c@FBcaption@count=\count97
+\listindentFB=\skip43
+\descindentFB=\skip44
+\labelwidthFB=\skip45
+\leftmarginFB=\skip46
 \parindentFFN=\dimen105
-\FBfnindent=\skip49
+\FBfnindent=\skip47
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty")
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\scalefnt.
+sty")
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count93
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
-)
-(CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux) (Chapitre3.aux)
-(Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
+) (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
+(Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
 \openout1 = `CahierCharge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Info: Redefining \degres on input line 9.
-LaTeX Info: Redefining \dots on input line 9.
-LaTeX Info: Redefining \up on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Info: Redefining \degres on input line 10.
+LaTeX Info: Redefining \dots on input line 10.
+LaTeX Info: Redefining \up on input line 10.
 
 
-Package frenchb.ldf Warning: OT1 encoding should not be used for French.
-(frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document, on input line 9.
+Package french.ldf Warning: OT1 encoding should not be used for French.
+(french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
+(french.ldf)                of your document; reported on input line 10.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count94
+\scratchcounter=\count98
 \scratchdimen=\dimen108
 \scratchbox=\box26
-\nofMPsegments=\count95
-\nofMParguments=\count96
+\nofMPsegments=\count99
+\nofMParguments=\count100
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count97
+\MPscratchCnt=\count101
 \MPscratchDim=\dimen109
-\MPnumerator=\count98
-\makeMPintoPDFobject=\count99
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
 \everyMPtoPDFconversion=\toks19
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\romai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \openout2 = `Title.aux'.
 
- (Title.tex <unamur_logo.png, id=1, 948.54375pt x 273.02pt>
+ (Title.tex
+<unamur_logo.png, id=1, 948.54375pt x 273.02pt>
 File: unamur_logo.png Graphic file (type png)
- <use unamur_logo.png>
-Package pdftex.def Info: unamur_logo.png used on input line 6.
+<use unamur_logo.png>
+Package pdftex.def Info: unamur_logo.png  used on input line 6.
 (pdftex.def)             Requested size: 345.0pt x 99.29944pt.
-
 <logo.png, id=3, 803.0pt x 200.75pt>
 File: logo.png Graphic file (type png)
- <use logo.png>
-Package pdftex.def Info: logo.png used on input line 14.
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 14.
 (pdftex.def)             Requested size: 345.0pt x 86.25035pt.
  [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./unamur_logo.png> <./log
-o.png>])
-(CahierCharge.toc
+{C:/Users/romai/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./unamur_lo
+go.png> <./logo.png>]) (CahierCharge.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -524,7 +554,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2]
 \openout2 = `Chapitre1.aux'.
 
- (Chapitre1.tex
+
+(Chapitre1.tex
 Chapitre 1.
 
 Overfull \hbox (11.58382pt too wide) in paragraph at lines 9--10
@@ -536,7 +567,7 @@ Overfull \hbox (11.58382pt too wide) in paragraph at lines 9--10
 
 
 ])
-Overfull \hbox (7.27824pt too wide) in paragraph at lines 15--15
+Overfull \hbox (7.27824pt too wide) in paragraph at lines 15--16
 \OT1/cmr/m/n/10 nus deblocables se-ront eux payants car ils necessiteront de 
 l'equipement necessaire,
  []
@@ -564,95 +595,168 @@ Chapitre 3.
 
  (Chapitre4.tex
 Chapitre 4.
-<ihms/inscription.png, id=37, 273.02pt x 483.8075pt>
-File: ihms/inscription.png Graphic file (type png)
 
-<use ihms/inscription.png>
-Package pdftex.def Info: ihms/inscription.png used on input line 14.
-(pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
+! LaTeX Error: File `ihms/inscription' not found.
 
-<ihms/caracteristiques.png, id=38, 273.02pt x 483.8075pt>
-File: ihms/caracteristiques.png Graphic file (type png)
-
-<use ihms/caracteristiques.png>
-Package pdftex.def Info: ihms/caracteristiques.png used on input line 17.
-(pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
- [8
-
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \includegraphics[scale=0.3]{ihms/inscription}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
- <./ihms/inscription.png> <./ihms/caracteristiques.png>]
+! LaTeX Error: File `ihms/caracteristiques' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...graphics[scale=0.3]{ihms/caracteristiques}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-<ihms/seance.png, id=44, 272.01625pt x 486.81876pt>
-File: ihms/seance.png Graphic file (type png)
- <use ihms/seance.png>
-Package pdftex.def Info: ihms/seance.png used on input line 47.
-(pdftex.def)             Requested size: 81.6055pt x 146.04675pt.
+[8
 
-<ihms/seance2.png, id=45, 274.02374pt x 483.8075pt>
-File: ihms/seance2.png Graphic file (type png)
- <use ihms/seance2.png>
-Package pdftex.def Info: ihms/seance2.png used on input line 48.
-(pdftex.def)             Requested size: 82.20775pt x 145.14337pt.
 
-<ihms/seance3.png, id=46, 272.01625pt x 480.79625pt>
-File: ihms/seance3.png Graphic file (type png)
- <use ihms/seance3.png>
-Package pdftex.def Info: ihms/seance3.png used on input line 49.
-(pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
 
-<ihms/seance4.png, id=47, 271.0125pt x 482.80376pt>
-File: ihms/seance4.png Graphic file (type png)
- <use ihms/seance4.png>
-Package pdftex.def Info: ihms/seance4.png used on input line 50.
-(pdftex.def)             Requested size: 81.30437pt x 144.84224pt.
+]
+
+! LaTeX Error: File `ihms/seance' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \includegraphics[scale=0.3]{ihms/seance}
+                                             
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ihms/seance2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \includegraphics[scale=0.3]{ihms/seance2}
+                                              
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ihms/seance3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \includegraphics[scale=0.3]{ihms/seance3}
+                                              
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ihms/seance4' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \includegraphics[scale=0.3]{ihms/seance4}
+                                              
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
-<ihms/normal_session.png, id=48, 273.02pt x 481.8pt>
-File: ihms/normal_session.png Graphic file (type png)
 
-<use ihms/normal_session.png>
-Package pdftex.def Info: ihms/normal_session.png used on input line 58.
-(pdftex.def)             Requested size: 81.90663pt x 144.5411pt.
+! LaTeX Error: File `ihms/normal_session' not found.
 
-<ihms/get_information_about_exo.png, id=49, 272.01625pt x 480.79625pt>
-File: ihms/get_information_about_exo.png Graphic file (type png)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...degraphics[scale=0.3]{ihms/normal_session}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use ihms/get_information_about_exo.png>
-Package pdftex.def Info: ihms/get_information_about_exo.png used on input line 
-60.
-(pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
+
+! LaTeX Error: File `ihms/get_information_about_exo' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...scale=0.3]{ihms/get_information_about_exo}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+! LaTeX Error: File `ihms/rating_before_update' not found.
 
-[9 <./ihms/seance.png> <./ihms/seance2.png> <./ihms/seance3.png> <./ihms/seance
-4.png>] <ihms/rating_before_update.png, id=57, 275.0275pt x 483.8075pt>
-File: ihms/rating_before_update.png Graphic file (type png)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 ...hics[scale=0.3]{ihms/rating_before_update}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use ihms/rating_before_update.png>
-Package pdftex.def Info: ihms/rating_before_update.png used on input line 75.
-(pdftex.def)             Requested size: 82.50888pt x 145.14337pt.
- [10 <./ihms/normal_session.png> <./ihms/get_information_about_exo.png> <./ihms
-/rating_before_update.png>]
-<ihms/remove_exo.png, id=64, 272.01625pt x 483.8075pt>
-File: ihms/remove_exo.png Graphic file (type png)
+[9]
 
-<use ihms/remove_exo.png>
-Package pdftex.def Info: ihms/remove_exo.png used on input line 89.
-(pdftex.def)             Requested size: 81.6055pt x 145.14337pt.
+! LaTeX Error: File `ihms/remove_exo' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \includegraphics[scale=0.3]{ihms/remove_exo}
+                                                 
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
-) [11 <./ihms/remove_exo.png>]
+) [10]
 \openout2 = `Chapitre5.aux'.
 
  (Chapitre5.tex
@@ -667,43 +771,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-[12
+[11
 
 
 
 ]
-File: ihms/inscription.png Graphic file (type png)
- <use ihms/inscription.png>
-Package pdftex.def Info: ihms/inscription.png used on input line 16.
-(pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
-File: ihms/caracteristiques.png Graphic file (type png)
- <use ihms/caracteristiques.png>
-Package pdftex.def Info: ihms/caracteristiques.png used on input line 17.
-(pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
-File: ihms/seance.png Graphic file (type png)
 
-<use ihms/seance.png>
-Package pdftex.def Info: ihms/seance.png used on input line 18.
-(pdftex.def)             Requested size: 81.6055pt x 146.04675pt.
-File: ihms/normal_session.png Graphic file (type png)
- <use ihms/normal_session.png>
-Package pdftex.def Info: ihms/normal_session.png used on input line 19.
-(pdftex.def)             Requested size: 81.90663pt x 144.5411pt.
-File: ihms/get_information_about_exo.png Graphic file (type png)
+! LaTeX Error: File `ihms/inscription' not found.
 
-<use ihms/get_information_about_exo.png>
-Package pdftex.def Info: ihms/get_information_about_exo.png used on input line 
-20.
-(pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
-File: ihms/remove_exo.png Graphic file (type png)
- <use ihms/remove_exo.png>
-Package pdftex.def Info: ihms/remove_exo.png used on input line 21.
-(pdftex.def)             Requested size: 81.6055pt x 145.14337pt.
-File: ihms/rating_before_update.png Graphic file (type png)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...cludegraphics[scale=0.3]{ihms/inscription}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use ihms/rating_before_update.png>
-Package pdftex.def Info: ihms/rating_before_update.png used on input line 22.
-(pdftex.def)             Requested size: 82.50888pt x 145.14337pt.
+
+! LaTeX Error: File `ihms/caracteristiques' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...graphics[scale=0.3]{ihms/caracteristiques}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ihms/seance' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	\includegraphics[scale=0.3]{ihms/seance}
+                                              
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ihms/normal_session' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...degraphics[scale=0.3]{ihms/normal_session}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ihms/get_information_about_exo' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...scale=0.3]{ihms/get_information_about_exo}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ihms/remove_exo' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\includegraphics[scale=0.3]{ihms/remove_exo}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ihms/rating_before_update' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...hics[scale=0.3]{ihms/rating_before_update}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
@@ -719,12 +889,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-[13]
+
 Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
@@ -743,17 +913,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-[14]
+
 Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
-
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-[15]
+
 Overfull \hbox (9.69502pt too wide) in paragraph at lines 65--66
 \OT1/cmr/m/n/10 percue par l'uti-li-sa-teur. Bien que le chan-ge-ment d'in-ter
 -faces n'est pas pa-rametrable
@@ -764,7 +934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
@@ -780,7 +950,7 @@ Overfull \hbox (1.36159pt too wide) in paragraph at lines 79--80
 ar l'uti-li-sa-teur (stockees
  []
 
-[16]
+
 Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
@@ -790,13 +960,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-
+[15]
 Overfull \hbox (4.91713pt too wide) in paragraph at lines 98--99
 []\OT1/cmr/m/n/10 Le pro-duit va de paire avec un help desk. Celui-ci sera ac-c
 es-sible par telephone,
  []
 
-[17]
+
 Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
@@ -806,50 +976,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
-
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-[18]
+
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
-) [19]
+) [17]
 \openout2 = `Chapitre6.aux'.
 
  (Chapitre6.tex
 Chapitre 6.
-) [20
+) [18
 
 
 
-] [21] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
+] [19] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
 (Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.49994pt have occurred.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 3031 strings out of 493334
- 41573 string characters out of 3136666
- 111612 words of memory out of 3000000
- 6476 multiletter control sequences out of 15000+200000
+ 3091 strings out of 493305
+ 44533 string characters out of 3129802
+ 112896 words of memory out of 3000000
+ 6542 multiletter control sequences out of 15000+200000
  7920 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,30p,1148b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmti10.pfb>
-Output written on CahierCharge.pdf (22 pages, 807320 bytes).
+ 41i,5n,30p,1148b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/romai/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/romai/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/roma
+i/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C
+:/Users/romai/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmti10.pfb>
+Output written on CahierCharge.pdf (20 pages, 184156 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
