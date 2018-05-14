@@ -1,12 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.16)  4 MAY 2018 16:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.1)  12 MAY 2018 22:42
 entering extended mode
-**./CahierCharge.tex
-(CahierCharge.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**CahierCharge.tex
+(./CahierCharge.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -22,20 +25,20 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -247,6 +250,8 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
    defining Unicode char U+1E02 (decimal 7682)
    defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
@@ -267,12 +272,14 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -312,8 +319,8 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -336,80 +343,77 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2016/04/23 3.9r The Babel package
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-french\frenchb.ldf"
-Language: frenchb 2016/05/14 v3.2c French support from the babel system
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-french/frenchb.ldf
+Language: frenchb 2017/04/30 v3.3a French support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2016/04/23 3.9r Babel common definitions
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
 \l@acadian = a dialect from \language\l@french 
 \l@canadien = a dialect from \language\l@french 
 \FB@nonchar=\count89
-\FBcolonskip=\skip43
-\FBthinskip=\skip44
-Package babel Info: Making : an active character on input line 365.
-Package babel Info: Making ; an active character on input line 366.
-Package babel Info: Making ! an active character on input line 367.
-Package babel Info: Making ? an active character on input line 368.
-\FBguillskip=\skip45
+\FBcolonsp=\toks16
+\FBthinsp=\toks17
+Package babel Info: Making : an active character on input line 362.
+Package babel Info: Making ; an active character on input line 363.
+Package babel Info: Making ! an active character on input line 364.
+Package babel Info: Making ? an active character on input line 365.
+\FBguillsp=\toks18
 \FBguill@level=\count90
-\FB@everypar=\toks16
+\FB@everypar=\toks19
 \FB@Mht=\dimen104
-\std@mcc=\count91
-\dec@mcc=\count92
-\listindentFB=\skip46
-\labelwidthFB=\skip47
-\leftmarginFB=\skip48
+\mc@charclass=\count91
+\mc@charfam=\count92
+\mc@charslot=\count93
+\std@mcc=\count94
+\dec@mcc=\count95
+\listindentFB=\skip43
+\descindentFB=\skip44
+\labelwidthFB=\skip45
+\leftmarginFB=\skip46
 \parindentFFN=\dimen105
-\FBfnindent=\skip49
+\FBfnindent=\skip47
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty")
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks20
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count93
+\Gread@gobject=\count96
 ))
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
 )
-(CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux) (Chapitre3.aux)
-(Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux))
+(./CahierCharge.aux (./Title.aux) (./Chapitre1.aux) (./Chapitre2.aux)
+(./Chapitre3.aux) (./Chapitre4.aux) (./Chapitre5.aux) (./Chapitre6.aux))
 \openout1 = `CahierCharge.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -431,53 +435,53 @@ LaTeX Info: Redefining \up on input line 9.
 
 Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 (frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document, on input line 9.
+(frenchb.ldf)                of your document; reported on input line 9.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count94
+\scratchcounter=\count97
 \scratchdimen=\dimen108
 \scratchbox=\box26
-\nofMPsegments=\count95
-\nofMParguments=\count96
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count97
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count100
 \MPscratchDim=\dimen109
-\MPnumerator=\count98
-\makeMPintoPDFobject=\count99
-\everyMPtoPDFconversion=\toks19
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -490,26 +494,31 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 \openout2 = `Title.aux'.
 
- (Title.tex <unamur_logo.png, id=1, 948.54375pt x 273.02pt>
+
+(./Title.tex <unamur_logo.png, id=1, 948.54375pt x 273.02pt>
 File: unamur_logo.png Graphic file (type png)
- <use unamur_logo.png>
+
+<use unamur_logo.png>
 Package pdftex.def Info: unamur_logo.png used on input line 6.
 (pdftex.def)             Requested size: 345.0pt x 99.29944pt.
-
-<logo.png, id=3, 803.0pt x 200.75pt>
+ <logo.png, id=3, 803.0pt x 200.75pt>
 File: logo.png Graphic file (type png)
  <use logo.png>
 Package pdftex.def Info: logo.png used on input line 14.
 (pdftex.def)             Requested size: 345.0pt x 86.25035pt.
- [1
+
+[1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./unamur_logo.png> <./log
-o.png>])
-(CahierCharge.toc
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./unamu
+r_logo.png> <./logo.png>]) (./CahierCharge.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -524,12 +533,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2]
 \openout2 = `Chapitre1.aux'.
 
- (Chapitre1.tex
+ (./Chapitre1.tex
 Chapitre 1.
 
 Overfull \hbox (11.58382pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/10 ti-culierement les per-sonnes qui sou-haite se lan-cer dans un
- sport sans necessairement
+\OT1/cmr/m/n/10 ti-culi^^Rerement les per-sonnes qui sou-haite se lan-cer dans 
+un sport sans n^^Secessairement
  []
 
 [3
@@ -537,14 +546,14 @@ Overfull \hbox (11.58382pt too wide) in paragraph at lines 9--10
 
 ])
 Overfull \hbox (7.27824pt too wide) in paragraph at lines 15--15
-\OT1/cmr/m/n/10 nus deblocables se-ront eux payants car ils necessiteront de 
-l'equipement necessaire,
+\OT1/cmr/m/n/10 nus d^^Seblocables se-ront eux payants car ils n^^Secessiteront
+ de l'^^Sequipement n^^Secessaire,
  []
 
 [4]
 \openout2 = `Chapitre2.aux'.
 
- (Chapitre2.tex
+ (./Chapitre2.tex
 Chapitre 2.
 [5
 
@@ -553,7 +562,7 @@ Chapitre 2.
 ]) [6]
 \openout2 = `Chapitre3.aux'.
 
- (Chapitre3.tex
+ (./Chapitre3.tex
 Chapitre 3.
 ) [7
 
@@ -562,100 +571,150 @@ Chapitre 3.
 ]
 \openout2 = `Chapitre4.aux'.
 
- (Chapitre4.tex
+ (./Chapitre4.tex
 Chapitre 4.
-<ihms/inscription.png, id=37, 273.02pt x 483.8075pt>
+<diagrams/scope_product.png, id=38, 1037.8775pt x 693.59125pt>
+File: diagrams/scope_product.png Graphic file (type png)
+
+<use diagrams/scope_product.png>
+Package pdftex.def Info: diagrams/scope_product.png used on input line 16.
+(pdftex.def)             Requested size: 311.36566pt x 208.07898pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8
+
+
+
+] <ihms/inscription.png, id=42, 273.02pt x 483.8075pt>
 File: ihms/inscription.png Graphic file (type png)
 
 <use ihms/inscription.png>
-Package pdftex.def Info: ihms/inscription.png used on input line 14.
+Package pdftex.def Info: ihms/inscription.png used on input line 30.
 (pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
 
-<ihms/caracteristiques.png, id=38, 273.02pt x 483.8075pt>
+<ihms/caracteristiques.png, id=43, 273.02pt x 483.8075pt>
 File: ihms/caracteristiques.png Graphic file (type png)
 
 <use ihms/caracteristiques.png>
-Package pdftex.def Info: ihms/caracteristiques.png used on input line 17.
+Package pdftex.def Info: ihms/caracteristiques.png used on input line 33.
 (pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
- [8
 
+<diagrams/inscription.png, id=44, 1368.11125pt x 1417.295pt>
+File: diagrams/inscription.png Graphic file (type png)
 
+<use diagrams/inscription.png>
+Package pdftex.def Info: diagrams/inscription.png used on input line 43.
+(pdftex.def)             Requested size: 410.43654pt x 425.19179pt.
 
- <./ihms/inscription.png> <./ihms/caracteristiques.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Overfull \hbox (65.43654pt too wide) in paragraph at lines 43--45
+ [][] 
+ []
+
+[9 <./diagrams/scope_product.png> <./ihms/inscription.png> <./ihms/caracteristi
+ques.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
-<ihms/seance.png, id=44, 272.01625pt x 486.81876pt>
+[10 <./diagrams/inscription.png>]
+<ihms/seance.png, id=55, 272.01625pt x 486.81876pt>
 File: ihms/seance.png Graphic file (type png)
  <use ihms/seance.png>
-Package pdftex.def Info: ihms/seance.png used on input line 47.
+Package pdftex.def Info: ihms/seance.png used on input line 68.
 (pdftex.def)             Requested size: 81.6055pt x 146.04675pt.
 
-<ihms/seance2.png, id=45, 274.02374pt x 483.8075pt>
+<ihms/seance2.png, id=56, 274.02374pt x 483.8075pt>
 File: ihms/seance2.png Graphic file (type png)
  <use ihms/seance2.png>
-Package pdftex.def Info: ihms/seance2.png used on input line 48.
+Package pdftex.def Info: ihms/seance2.png used on input line 69.
 (pdftex.def)             Requested size: 82.20775pt x 145.14337pt.
 
-<ihms/seance3.png, id=46, 272.01625pt x 480.79625pt>
+<ihms/seance3.png, id=57, 272.01625pt x 480.79625pt>
 File: ihms/seance3.png Graphic file (type png)
  <use ihms/seance3.png>
-Package pdftex.def Info: ihms/seance3.png used on input line 49.
+Package pdftex.def Info: ihms/seance3.png used on input line 70.
 (pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
 
-<ihms/seance4.png, id=47, 271.0125pt x 482.80376pt>
+<ihms/seance4.png, id=58, 271.0125pt x 482.80376pt>
 File: ihms/seance4.png Graphic file (type png)
  <use ihms/seance4.png>
-Package pdftex.def Info: ihms/seance4.png used on input line 50.
+Package pdftex.def Info: ihms/seance4.png used on input line 71.
 (pdftex.def)             Requested size: 81.30437pt x 144.84224pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-<ihms/normal_session.png, id=48, 273.02pt x 481.8pt>
+<ihms/normal_session.png, id=59, 273.02pt x 481.8pt>
 File: ihms/normal_session.png Graphic file (type png)
 
 <use ihms/normal_session.png>
-Package pdftex.def Info: ihms/normal_session.png used on input line 58.
+Package pdftex.def Info: ihms/normal_session.png used on input line 80.
 (pdftex.def)             Requested size: 81.90663pt x 144.5411pt.
 
-<ihms/get_information_about_exo.png, id=49, 272.01625pt x 480.79625pt>
+<ihms/get_information_about_exo.png, id=60, 272.01625pt x 480.79625pt>
 File: ihms/get_information_about_exo.png Graphic file (type png)
 
 <use ihms/get_information_about_exo.png>
 Package pdftex.def Info: ihms/get_information_about_exo.png used on input line 
-60.
+82.
 (pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9 <./ihms/seance.png> <./ihms/seance2.png> <./ihms/seance3.png> <./ihms/seance
-4.png>] <ihms/rating_before_update.png, id=57, 275.0275pt x 483.8075pt>
+[11 <./ihms/seance.png> <./ihms/seance2.png> <./ihms/seance3.png> <./ihms/seanc
+e4.png>] <diagrams/utilisation.png, id=68, 911.405pt x 983.675pt>
+File: diagrams/utilisation.png Graphic file (type png)
+
+<use diagrams/utilisation.png>
+Package pdftex.def Info: diagrams/utilisation.png used on input line 94.
+(pdftex.def)             Requested size: 273.4236pt x 295.10478pt.
+ [12 <./ihms/normal_session.png> <./ihms/get_information_about_exo.png> <./diag
+rams/utilisation.png>]
+<ihms/rating_before_update.png, id=76, 275.0275pt x 483.8075pt>
 File: ihms/rating_before_update.png Graphic file (type png)
 
 <use ihms/rating_before_update.png>
-Package pdftex.def Info: ihms/rating_before_update.png used on input line 75.
+Package pdftex.def Info: ihms/rating_before_update.png used on input line 106.
 (pdftex.def)             Requested size: 82.50888pt x 145.14337pt.
- [10 <./ihms/normal_session.png> <./ihms/get_information_about_exo.png> <./ihms
-/rating_before_update.png>]
-<ihms/remove_exo.png, id=64, 272.01625pt x 483.8075pt>
+
+<diagrams/post.png, id=77, 877.2775pt x 639.38875pt>
+File: diagrams/post.png Graphic file (type png)
+ <use diagrams/post.png>
+Package pdftex.def Info: diagrams/post.png used on input line 115.
+(pdftex.def)             Requested size: 263.18527pt x 191.8181pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ihms/remove_exo.png, id=78, 272.01625pt x 483.8075pt>
 File: ihms/remove_exo.png Graphic file (type png)
 
 <use ihms/remove_exo.png>
-Package pdftex.def Info: ihms/remove_exo.png used on input line 89.
+Package pdftex.def Info: ihms/remove_exo.png used on input line 126.
 (pdftex.def)             Requested size: 81.6055pt x 145.14337pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
-) [11 <./ihms/remove_exo.png>]
+[13 <./ihms/rating_before_update.png>]
+Overfull \hbox (1.5281pt too wide) in paragraph at lines 146--147
+\OT1/cmr/m/n/10 fonc-tion des s^^Seances pr^^Sec^^Sedentes. Ceci n^^Secessite d
+onc que les s^^Seances soit pr^^Separ^^Ses
+ []
+
+[14 <./diagrams/post.png> <./ihms/remove_exo.png>]) [15]
 \openout2 = `Chapitre5.aux'.
 
- (Chapitre5.tex
+ (./Chapitre5.tex
 Chapitre 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
@@ -667,7 +726,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-[12
+[16
 
 
 
@@ -719,41 +778,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-[13]
+[17]
 Overfull \hbox (2.61157pt too wide) in paragraph at lines 59--64
-[]\OT1/cmr/m/n/10 - Main-te-nance - Condi-tions speciales de la main-te-nance 
-- Exi-gences en matiere
+[]\OT1/cmr/m/n/10 - Main-te-nance - Condi-tions sp^^Seciales de la main-te-nanc
+e - Exi-gences en mati^^Rere
  []
 
-[14]) [15]
+[18]) [19]
 \openout2 = `Chapitre6.aux'.
 
- (Chapitre6.tex
+ (./Chapitre6.tex
 Chapitre 6.
-) [16
+[20
 
 
 
-] [17] (CahierCharge.aux (Title.aux) (Chapitre1.aux) (Chapitre2.aux)
-(Chapitre3.aux) (Chapitre4.aux) (Chapitre5.aux) (Chapitre6.aux)) ) 
+])
+Overfull \hbox (3.05609pt too wide) in paragraph at lines 53--20
+\OT1/cmr/m/n/10 r^^Sealiser les al-go-rithmes. Pour trou-ver des donn^^Sees per
+-ti-nentes, on pour-rait r^^Sealiser
+ []
+
+[21] [22] (./CahierCharge.aux (./Title.aux) (./Chapitre1.aux) (./Chapitre2.aux)
+(./Chapitre3.aux) (./Chapitre4.aux) (./Chapitre5.aux) (./Chapitre6.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3025 strings out of 493334
- 41504 string characters out of 3136666
- 110612 words of memory out of 3000000
- 6472 multiletter control sequences out of 15000+200000
- 7619 words of font info for 27 fonts, out of 3000000 for 9000
+ 3102 strings out of 492995
+ 43286 string characters out of 6132705
+ 113260 words of memory out of 5000000
+ 6571 multiletter control sequences out of 15000+600000
+ 7619 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,30p,900b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb>
-Output written on CahierCharge.pdf (18 pages, 786043 bytes).
+ 39i,6n,30p,898b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on CahierCharge.pdf (23 pages, 1156971 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
