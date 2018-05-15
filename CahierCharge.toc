@@ -1,37 +1,34 @@
 \select@language {french}
-\contentsline {chapter}{\numberline {1}Objectifs du projet}{3}
-\contentsline {section}{\numberline {1.1}But du projet}{3}
-\contentsline {section}{\numberline {1.2}Plan business du projet}{3}
-\contentsline {chapter}{\numberline {2}Parties prenantes du projet}{5}
-\contentsline {section}{\numberline {2.1}Client, customer and other stakeholders}{5}
-\contentsline {section}{\numberline {2.2}Utilisateurs du produit}{5}
-\contentsline {section}{\numberline {2.3}Concurrents}{6}
-\contentsline {section}{\numberline {2.4}Avantage concurrentiel}{6}
-\contentsline {chapter}{\numberline {3}Contraintes du projet}{7}
-\contentsline {section}{\numberline {3.1}Mandated constraints}{7}
-\contentsline {section}{\numberline {3.2}Naming conventions and definitions}{7}
-\contentsline {section}{\numberline {3.3}Relevant facts and assumptions}{7}
-\contentsline {chapter}{\numberline {4}Functional requirements}{8}
-\contentsline {section}{\numberline {4.1}The scope of the work}{8}
-\contentsline {section}{\numberline {4.2}The scope of the product}{8}
-\contentsline {section}{\numberline {4.3}Functional and data requirements}{9}
-\contentsline {chapter}{\numberline {5}Exigences non fonctionnelles}{16}
-\contentsline {section}{\numberline {5.1}Ergonomie et convivialit\IeC {\'e} du produit}{16}
-\contentsline {section}{\numberline {5.2}Facilit\IeC {\'e} d'utilisation et facteurs humains}{18}
-\contentsline {section}{\numberline {5.3}Performances du produit}{18}
-\contentsline {section}{\numberline {5.4}Ad\IeC {\'e}quation du produit avec son environnement}{18}
-\contentsline {section}{\numberline {5.5}Maintenance et support du produit}{18}
-\contentsline {section}{\numberline {5.6}S\IeC {\'e}curit\IeC {\'e}}{18}
-\contentsline {section}{\numberline {5.7}Exigences culturelles et politiques}{19}
-\contentsline {section}{\numberline {5.8}Lois et standards}{19}
-\contentsline {chapter}{\numberline {6}Probl\IeC {\`e}mes du projet}{20}
-\contentsline {section}{\numberline {6.1}Questions ouvertes}{20}
-\contentsline {section}{\numberline {6.2}Solution existante}{20}
-\contentsline {section}{\numberline {6.3}New problems}{21}
-\contentsline {section}{\numberline {6.4}Tasks}{21}
-\contentsline {section}{\numberline {6.5}Cutover}{21}
-\contentsline {section}{\numberline {6.6}Risks}{21}
-\contentsline {section}{\numberline {6.7}Costs}{21}
-\contentsline {section}{\numberline {6.8}User documentation and training}{21}
-\contentsline {section}{\numberline {6.9}Waiting room}{21}
-\contentsline {section}{\numberline {6.10}Ideas for solutions}{21}
+\contentsline {chapter}{\numberline {1}Objectifs du projet}{2}
+\contentsline {section}{\numberline {1.1}But du projet}{2}
+\contentsline {section}{\numberline {1.2}Plan business du projet}{2}
+\contentsline {chapter}{\numberline {2}Parties prenantes du projet}{4}
+\contentsline {section}{\numberline {2.1}Client, customer and other stakeholders}{4}
+\contentsline {section}{\numberline {2.2}Utilisateurs du produit}{4}
+\contentsline {section}{\numberline {2.3}Concurrents}{5}
+\contentsline {section}{\numberline {2.4}Avantage concurrentiel}{5}
+\contentsline {chapter}{\numberline {3}Contraintes du projet}{6}
+\contentsline {section}{\numberline {3.1}Mandated constraints}{6}
+\contentsline {section}{\numberline {3.2}Naming conventions and definitions}{6}
+\contentsline {section}{\numberline {3.3}Relevant facts and assumptions}{6}
+\contentsline {chapter}{\numberline {4}Functional requirements}{7}
+\contentsline {section}{\numberline {4.1}The scope of the work}{7}
+\contentsline {section}{\numberline {4.2}The scope of the product}{7}
+\contentsline {section}{\numberline {4.3}Functional and data requirements}{8}
+\contentsline {chapter}{\numberline {5}Exigences non fonctionnelles}{15}
+\contentsline {section}{\numberline {5.1}Ergonomie et convivialit\IeC {\'e} du produit}{15}
+\contentsline {section}{\numberline {5.2}Facilit\IeC {\'e} d'utilisation et facteurs humains}{17}
+\contentsline {section}{\numberline {5.3}Fonctionnement du produit}{19}
+\contentsline {section}{\numberline {5.4}Ad\IeC {\'e}quation du produit avec son environnement}{20}
+\contentsline {section}{\numberline {5.5}Maintenance et support du produit}{20}
+\contentsline {section}{\numberline {5.6}S\IeC {\'e}curit\IeC {\'e}}{21}
+\contentsline {chapter}{\numberline {6}Probl\IeC {\`e}mes du projet}{23}
+\contentsline {section}{\numberline {6.1}Questions sans r\IeC {\'e}ponses}{23}
+\contentsline {section}{\numberline {6.2}Solution existante}{23}
+\contentsline {section}{\numberline {6.3}Nouveaux probl\IeC {\`e}mes}{23}
+\contentsline {section}{\numberline {6.4}T\IeC {\^a}ches \IeC {\`a} faire}{23}
+\contentsline {section}{\numberline {6.5}Risques}{24}
+\contentsline {section}{\numberline {6.6}Co\IeC {\^u}ts}{24}
+\contentsline {section}{\numberline {6.7}User documentation and training}{25}
+\contentsline {section}{\numberline {6.8}Waiting room}{25}
+\contentsline {section}{\numberline {6.9}Ideas for solutions}{25}

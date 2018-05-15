@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.1)  12 MAY 2018 22:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.1)  15 MAY 2018 16:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -412,8 +412,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
 )
-(./CahierCharge.aux (./Title.aux) (./Chapitre1.aux) (./Chapitre2.aux)
-(./Chapitre3.aux) (./Chapitre4.aux) (./Chapitre5.aux) (./Chapitre6.aux))
+(./CahierCharge.aux)
 \openout1 = `CahierCharge.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -518,19 +517,14 @@ Package pdftex.def Info: logo.png used on input line 14.
 
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./unamu
-r_logo.png> <./logo.png>]) (./CahierCharge.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
- [1
-
-
-])
+r_logo.png> <./logo.png>]) (./CahierCharge.toc)
 \tf@toc=\write3
 \openout3 = `CahierCharge.toc'.
 
- [2]
+ [1
+
+
+]
 \openout2 = `Chapitre1.aux'.
 
  (./Chapitre1.tex
@@ -541,7 +535,7 @@ Overfull \hbox (11.58382pt too wide) in paragraph at lines 9--10
 un sport sans n^^Secessairement
  []
 
-[3
+[2
 
 
 ])
@@ -550,21 +544,21 @@ Overfull \hbox (7.27824pt too wide) in paragraph at lines 15--15
  de l'^^Sequipement n^^Secessaire,
  []
 
-[4]
+[3]
 \openout2 = `Chapitre2.aux'.
 
  (./Chapitre2.tex
 Chapitre 2.
-[5
+[4
 
 
 
-]) [6]
+]) [5]
 \openout2 = `Chapitre3.aux'.
 
  (./Chapitre3.tex
 Chapitre 3.
-) [7
+) [6
 
 
 
@@ -573,7 +567,7 @@ Chapitre 3.
 
  (./Chapitre4.tex
 Chapitre 4.
-<diagrams/scope_product.png, id=38, 1037.8775pt x 693.59125pt>
+<diagrams/scope_product.png, id=34, 1037.8775pt x 693.59125pt>
 File: diagrams/scope_product.png Graphic file (type png)
 
 <use diagrams/scope_product.png>
@@ -583,25 +577,25 @@ Package pdftex.def Info: diagrams/scope_product.png used on input line 16.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8
+[7
 
 
 
-] <ihms/inscription.png, id=42, 273.02pt x 483.8075pt>
+] <ihms/inscription.png, id=38, 273.02pt x 483.8075pt>
 File: ihms/inscription.png Graphic file (type png)
 
 <use ihms/inscription.png>
 Package pdftex.def Info: ihms/inscription.png used on input line 30.
 (pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
 
-<ihms/caracteristiques.png, id=43, 273.02pt x 483.8075pt>
+<ihms/caracteristiques.png, id=39, 273.02pt x 483.8075pt>
 File: ihms/caracteristiques.png Graphic file (type png)
 
 <use ihms/caracteristiques.png>
 Package pdftex.def Info: ihms/caracteristiques.png used on input line 33.
 (pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
 
-<diagrams/inscription.png, id=44, 1368.11125pt x 1417.295pt>
+<diagrams/inscription.png, id=40, 1368.11125pt x 1417.295pt>
 File: diagrams/inscription.png Graphic file (type png)
 
 <use diagrams/inscription.png>
@@ -612,32 +606,32 @@ Overfull \hbox (65.43654pt too wide) in paragraph at lines 43--45
  [][] 
  []
 
-[9 <./diagrams/scope_product.png> <./ihms/inscription.png> <./ihms/caracteristi
+[8 <./diagrams/scope_product.png> <./ihms/inscription.png> <./ihms/caracteristi
 ques.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
-[10 <./diagrams/inscription.png>]
-<ihms/seance.png, id=55, 272.01625pt x 486.81876pt>
+[9 <./diagrams/inscription.png>]
+<ihms/seance.png, id=51, 272.01625pt x 486.81876pt>
 File: ihms/seance.png Graphic file (type png)
  <use ihms/seance.png>
 Package pdftex.def Info: ihms/seance.png used on input line 68.
 (pdftex.def)             Requested size: 81.6055pt x 146.04675pt.
 
-<ihms/seance2.png, id=56, 274.02374pt x 483.8075pt>
+<ihms/seance2.png, id=52, 274.02374pt x 483.8075pt>
 File: ihms/seance2.png Graphic file (type png)
  <use ihms/seance2.png>
 Package pdftex.def Info: ihms/seance2.png used on input line 69.
 (pdftex.def)             Requested size: 82.20775pt x 145.14337pt.
 
-<ihms/seance3.png, id=57, 272.01625pt x 480.79625pt>
+<ihms/seance3.png, id=53, 272.01625pt x 480.79625pt>
 File: ihms/seance3.png Graphic file (type png)
  <use ihms/seance3.png>
 Package pdftex.def Info: ihms/seance3.png used on input line 70.
 (pdftex.def)             Requested size: 81.6055pt x 144.23997pt.
 
-<ihms/seance4.png, id=58, 271.0125pt x 482.80376pt>
+<ihms/seance4.png, id=54, 271.0125pt x 482.80376pt>
 File: ihms/seance4.png Graphic file (type png)
  <use ihms/seance4.png>
 Package pdftex.def Info: ihms/seance4.png used on input line 71.
@@ -647,14 +641,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-<ihms/normal_session.png, id=59, 273.02pt x 481.8pt>
+<ihms/normal_session.png, id=55, 273.02pt x 481.8pt>
 File: ihms/normal_session.png Graphic file (type png)
 
 <use ihms/normal_session.png>
 Package pdftex.def Info: ihms/normal_session.png used on input line 80.
 (pdftex.def)             Requested size: 81.90663pt x 144.5411pt.
 
-<ihms/get_information_about_exo.png, id=60, 272.01625pt x 480.79625pt>
+<ihms/get_information_about_exo.png, id=56, 272.01625pt x 480.79625pt>
 File: ihms/get_information_about_exo.png Graphic file (type png)
 
 <use ihms/get_information_about_exo.png>
@@ -665,23 +659,23 @@ Package pdftex.def Info: ihms/get_information_about_exo.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11 <./ihms/seance.png> <./ihms/seance2.png> <./ihms/seance3.png> <./ihms/seanc
-e4.png>] <diagrams/utilisation.png, id=68, 911.405pt x 983.675pt>
+[10 <./ihms/seance.png> <./ihms/seance2.png> <./ihms/seance3.png> <./ihms/seanc
+e4.png>] <diagrams/utilisation.png, id=64, 911.405pt x 983.675pt>
 File: diagrams/utilisation.png Graphic file (type png)
 
 <use diagrams/utilisation.png>
 Package pdftex.def Info: diagrams/utilisation.png used on input line 94.
 (pdftex.def)             Requested size: 273.4236pt x 295.10478pt.
- [12 <./ihms/normal_session.png> <./ihms/get_information_about_exo.png> <./diag
+ [11 <./ihms/normal_session.png> <./ihms/get_information_about_exo.png> <./diag
 rams/utilisation.png>]
-<ihms/rating_before_update.png, id=76, 275.0275pt x 483.8075pt>
+<ihms/rating_before_update.png, id=71, 275.0275pt x 483.8075pt>
 File: ihms/rating_before_update.png Graphic file (type png)
 
 <use ihms/rating_before_update.png>
 Package pdftex.def Info: ihms/rating_before_update.png used on input line 106.
 (pdftex.def)             Requested size: 82.50888pt x 145.14337pt.
 
-<diagrams/post.png, id=77, 877.2775pt x 639.38875pt>
+<diagrams/post.png, id=72, 877.2775pt x 639.38875pt>
 File: diagrams/post.png Graphic file (type png)
  <use diagrams/post.png>
 Package pdftex.def Info: diagrams/post.png used on input line 115.
@@ -690,7 +684,7 @@ Package pdftex.def Info: diagrams/post.png used on input line 115.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<ihms/remove_exo.png, id=78, 272.01625pt x 483.8075pt>
+<ihms/remove_exo.png, id=73, 272.01625pt x 483.8075pt>
 File: ihms/remove_exo.png Graphic file (type png)
 
 <use ihms/remove_exo.png>
@@ -705,13 +699,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
-[13 <./ihms/rating_before_update.png>]
+[12 <./ihms/rating_before_update.png>]
 Overfull \hbox (1.5281pt too wide) in paragraph at lines 146--147
 \OT1/cmr/m/n/10 fonc-tion des s^^Seances pr^^Sec^^Sedentes. Ceci n^^Secessite d
 onc que les s^^Seances soit pr^^Separ^^Ses
  []
 
-[14 <./diagrams/post.png> <./ihms/remove_exo.png>]) [15]
+[13 <./diagrams/post.png> <./ihms/remove_exo.png>]) [14]
 \openout2 = `Chapitre5.aux'.
 
  (./Chapitre5.tex
@@ -726,13 +720,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-[16
+[15
 
 
 
 ]
+
+LaTeX Warning: Reference `fig:interfaces' on page 16 undefined on input line 12
+.
+
 File: ihms/inscription.png Graphic file (type png)
- <use ihms/inscription.png>
+<use ihms/inscription.png>
 Package pdftex.def Info: ihms/inscription.png used on input line 16.
 (pdftex.def)             Requested size: 81.90663pt x 145.14337pt.
 File: ihms/caracteristiques.png Graphic file (type png)
@@ -773,56 +771,165 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
 
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-[17]
-Overfull \hbox (2.61157pt too wide) in paragraph at lines 59--64
-[]\OT1/cmr/m/n/10 - Main-te-nance - Condi-tions sp^^Seciales de la main-te-nanc
-e - Exi-gences en mati^^Rere
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
  []
 
-[18]) [19]
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.49994> not available
+(Font)              size <6> substituted on input line 44.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+[18]
+Overfull \hbox (9.69502pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 per^^Xcue par l'uti-li-sa-teur. Bien que le chan-ge-ment d'in-t
+er-faces n'est pas pa-ram^^Setrable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Overfull \hbox (1.36159pt too wide) in paragraph at lines 79--80
+[]\OT1/cmr/m/n/10 Le ser-veur s'oc-cu-pera de trai-ter les donn^^Sees four-nies
+ par l'uti-li-sa-teur (stock^^Sees
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Overfull \hbox (4.91713pt too wide) in paragraph at lines 98--99
+[]\OT1/cmr/m/n/10 Le pro-duit va de paire avec un help desk. Celui-ci sera ac-c
+es-sible par t^^Sel^^Sephone,
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+) [22]
 \openout2 = `Chapitre6.aux'.
 
  (./Chapitre6.tex
 Chapitre 6.
-[20
 
-
-
-])
-Overfull \hbox (3.05609pt too wide) in paragraph at lines 53--20
-\OT1/cmr/m/n/10 r^^Sealiser les al-go-rithmes. Pour trou-ver des donn^^Sees per
--ti-nentes, on pour-rait r^^Sealiser
+Overfull \hbox (21.5839pt too wide) in paragraph at lines 26--28
+[]\OT1/cmr/m/n/10 Il faut, avant de pou-voir com-men-cer le d^^Seveloppement, c
+her-cher plus concr^^Retement
  []
 
-[21] [22] (./CahierCharge.aux (./Title.aux) (./Chapitre1.aux) (./Chapitre2.aux)
-(./Chapitre3.aux) (./Chapitre4.aux) (./Chapitre5.aux) (./Chapitre6.aux))
+[23
+
+
+
+]
+Overfull \hbox (15.42497pt too wide) in paragraph at lines 29--29
+[]\OT1/cmr/bx/n/12 Conception de l'ap-pli-ca-tion et ^^Setablissement du/des mo
+d^^Rele(s) 
+ []
+
+[24]) [25] (./CahierCharge.aux (./Title.aux) (./Chapitre1.aux) (./Chapitre2.aux
+) (./Chapitre3.aux) (./Chapitre4.aux) (./Chapitre5.aux) (./Chapitre6.aux))
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.49994pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 3102 strings out of 492995
- 43286 string characters out of 6132705
- 113260 words of memory out of 5000000
- 6571 multiletter control sequences out of 15000+600000
- 7619 words of font info for 27 fonts, out of 8000000 for 9000
+ 3089 strings out of 492995
+ 43103 string characters out of 6132705
+ 112502 words of memory out of 5000000
+ 6570 multiletter control sequences out of 15000+600000
+ 7920 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,30p,898b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,6n,30p,1146b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CahierCharge.pdf (23 pages, 1156971 bytes).
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on CahierCharge.pdf (26 pages, 1174384 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 149 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

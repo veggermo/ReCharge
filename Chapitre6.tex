@@ -33,10 +33,8 @@ L'application doit être modélisé et les modules nécessaires doivent être id
 \subsection*{Implémentation de l'application}
 
 Une fois les modules de l'application identifié et conceptualisé, il ne reste plus qu'à l'implémenter. 
-  
-\section{Cutover}
-
-\section{Risks}
+ 
+\section{Risques}
 
 Plusieurs risques sont à prendre en compte. Tout d'abord, les bases de données peuvent être piratés à des buts commerciaux (récupération de données pour de la publicité privé). 
 
@@ -45,7 +43,7 @@ D'autre part, on risque d'avoir un manque d'experts sportifs puisque beaucoup po
 Un dernier risque est que les coûts de création et de support ne sont pas assez rentable.
 
 
-\section{Costs}
+\section{Coûts}
 
 L'élaboration de \textit{SportEasy} fait intervenir divers coûts :
 
@@ -63,8 +61,22 @@ L'élaboration de \textit{SportEasy} fait intervenir divers coûts :
 
 \section{User documentation and training}
 
+L'application ne nécessite aucune formation. Un didacticiel est réalisé à sa première utilisation.
+
+À sa première utilisation, l'utilisateur doit disposer d'un compte. Il peut soit s'inscrire soit utiliser sont compte Google ou Facebook pour se connecter.
+
+L'utilisateur devra ensuite remplir un formulaire où il renseignera ses caractéristiques physiques (poids, taille, ...) ainsi que son objectif. L'honnêteté de l'utilisateur est primordial car la création de séance va dépendre de ces données. Une fois l'inscription et l'entrée des caractéristiques physiques terminées, l'utilisateur peut utiliser l'application pour réaliser des séances de sport.
+
+Chaque fois que l'utilisateur veut avoir recours à cette fonctionnalité, il devra entrer plusieurs paramètres, à savoir l'intensité de son entrainement, la durée et le sport choisi pour son entrainement. L'application lui génère alors une liste d'exercice que l'utilisateur peut  consulter à tous moment durant sa séance pour savoir en permanence quels exercices il doit faire.
+
+Durant sa séance, l'utilisateur disposera d'une icône "renseignement" à côté de chaque exercice sur laquelle il pourra cliquer s'il souhaite de plus ample informations concernant l'exercice à réaliser.
+
+De même, s'il souhaite supprimer un exercice, il dispose d'une icône "Supprimer" qu'il pourra utiliser pour ensuite sélectionner le(s) exercice(s) qu'il ne souhaite pas réaliser. 
+
+Pour finir, une fois son entrainement terminé, l'utilisateur valide sa séance et un formulaire lui est alors proposé. L'utilisateur donne alors une appréciation de sa séance à travers ce formulaire. La prochaine séance sera alors calculé en fonction des résultats des séances précédentes.
+
 \section{Waiting room}
 
-\section{Ideas for solutions}
+Dans une future version de l'applications, on peut essayer de pousser la complexité du/des modèles de machine learning pour réaliser des séances 
 
-%L'application va nécessiter une grande quantité de données pour pouvoir réaliser les algorithmes. Pour trouver des données pertinentes, on pourrait réaliser un modèle basé sur de données de plusieurs sportif, chaque jeu de données d'un sportif étant classé selon sa morphologie, sa fréquence d'activité sportive et le nombre d'années passés à pratiquer son sport. Il serait pertinent de réaliser des échantillons sur base d'enquête réaliser auprès de plusieurs sportif à l'aide de nos partenaires (par exemple, si nous arrivons à avoir Basic-Fit dans nos partenaires il peut être intéressant de réaliser des enquêtes auprès de leurs clients).
+\section{Ideas for solutions}
