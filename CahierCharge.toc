@@ -1,4 +1,4 @@
-\select@language {french}
+\babel@toc {french}{}
 \contentsline {chapter}{\numberline {1}Objectifs du projet}{3}
 \contentsline {section}{\numberline {1.1}But du projet}{3}
 \contentsline {section}{\numberline {1.2}Plan business du projet}{3}
@@ -18,10 +18,10 @@
 \contentsline {section}{\numberline {3.6}Contraintes d'identification}{9}
 \contentsline {section}{\numberline {3.7}Contraintes de langue utilis\IeC {\'e}e}{9}
 \contentsline {section}{\numberline {3.8}Li\IeC {\'e}es au comportement de l'utilisateur}{9}
-\contentsline {chapter}{\numberline {4}Functional requirements}{10}
-\contentsline {section}{\numberline {4.1}The scope of the work}{10}
-\contentsline {section}{\numberline {4.2}The scope of the product}{10}
-\contentsline {section}{\numberline {4.3}Functional and data requirements}{11}
+\contentsline {chapter}{\numberline {4}Exigences fonctionnelles}{10}
+\contentsline {section}{\numberline {4.1}Port\IeC {\'e}e du travail}{10}
+\contentsline {section}{\numberline {4.2}Port\IeC {\'e}e du produit}{10}
+\contentsline {section}{\numberline {4.3}Description des exigences fonctionnelles}{11}
 \contentsline {chapter}{\numberline {5}Exigences non fonctionnelles}{18}
 \contentsline {section}{\numberline {5.1}Ergonomie et convivialit\IeC {\'e} du produit}{18}
 \contentsline {section}{\numberline {5.2}Facilit\IeC {\'e} d'utilisation et facteurs humains}{20}
@@ -37,6 +37,6 @@
 \contentsline {section}{\numberline {6.5}Contr\IeC {\^o}le final de qualit\IeC {\'e}}{27}
 \contentsline {section}{\numberline {6.6}Risques}{27}
 \contentsline {section}{\numberline {6.7}Co\IeC {\^u}ts}{28}
-\contentsline {section}{\numberline {6.8}User documentation and training}{28}
+\contentsline {section}{\numberline {6.8}Documentation et formation pour l'utilisateur}{28}
 \contentsline {section}{\numberline {6.9}Waiting room}{29}
 \contentsline {section}{\numberline {6.10}Ideas for solutions}{29}
