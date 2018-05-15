@@ -3,32 +3,39 @@
 \contentsline {section}{\numberline {1.1}But du projet}{2}
 \contentsline {section}{\numberline {1.2}Plan business du projet}{2}
 \contentsline {chapter}{\numberline {2}Parties prenantes du projet}{4}
-\contentsline {section}{\numberline {2.1}Client, customer and other stakeholders}{4}
-\contentsline {section}{\numberline {2.2}Utilisateurs du produit}{4}
-\contentsline {section}{\numberline {2.3}Concurrents}{5}
-\contentsline {section}{\numberline {2.4}Avantage concurrentiel}{5}
-\contentsline {chapter}{\numberline {3}Contraintes du projet}{6}
-\contentsline {section}{\numberline {3.1}Mandated constraints}{6}
-\contentsline {section}{\numberline {3.2}Naming conventions and definitions}{6}
-\contentsline {section}{\numberline {3.3}Relevant facts and assumptions}{6}
-\contentsline {chapter}{\numberline {4}Functional requirements}{7}
-\contentsline {section}{\numberline {4.1}The scope of the work}{7}
-\contentsline {section}{\numberline {4.2}The scope of the product}{7}
-\contentsline {section}{\numberline {4.3}Functional and data requirements}{8}
-\contentsline {chapter}{\numberline {5}Exigences non fonctionnelles}{15}
-\contentsline {section}{\numberline {5.1}Ergonomie et convivialit\IeC {\'e} du produit}{15}
-\contentsline {section}{\numberline {5.2}Facilit\IeC {\'e} d'utilisation et facteurs humains}{17}
-\contentsline {section}{\numberline {5.3}Fonctionnement du produit}{19}
-\contentsline {section}{\numberline {5.4}Ad\IeC {\'e}quation du produit avec son environnement}{20}
-\contentsline {section}{\numberline {5.5}Maintenance et support du produit}{20}
-\contentsline {section}{\numberline {5.6}S\IeC {\'e}curit\IeC {\'e}}{21}
-\contentsline {chapter}{\numberline {6}Probl\IeC {\`e}mes du projet}{23}
-\contentsline {section}{\numberline {6.1}Questions sans r\IeC {\'e}ponses}{23}
-\contentsline {section}{\numberline {6.2}Solution existante}{23}
-\contentsline {section}{\numberline {6.3}Nouveaux probl\IeC {\`e}mes}{23}
-\contentsline {section}{\numberline {6.4}T\IeC {\^a}ches \IeC {\`a} faire}{23}
-\contentsline {section}{\numberline {6.5}Risques}{24}
-\contentsline {section}{\numberline {6.6}Co\IeC {\^u}ts}{24}
-\contentsline {section}{\numberline {6.7}User documentation and training}{25}
-\contentsline {section}{\numberline {6.8}Waiting room}{25}
-\contentsline {section}{\numberline {6.9}Ideas for solutions}{25}
+\contentsline {section}{\numberline {2.1}Partenaires}{4}
+\contentsline {section}{\numberline {2.2}Clients utilisateurs du produit}{4}
+\contentsline {section}{\numberline {2.3}Stakeholders n\IeC {\'e}gatifs}{5}
+\contentsline {section}{\numberline {2.4}Concurrents et avantage concurrentiel}{5}
+\contentsline {chapter}{\numberline {3}Contraintes du projet}{7}
+\contentsline {section}{\numberline {3.1}Li\IeC {\'e}es au domaine sportif}{7}
+\contentsline {section}{\numberline {3.2}Li\IeC {\'e}es au \textit {machine learning}}{7}
+\contentsline {section}{\numberline {3.3}Contraintes mat\IeC {\'e}rielles}{7}
+\contentsline {subsection}{\numberline {3.3.1}OS Mobiles}{7}
+\contentsline {subsection}{\numberline {3.3.2}Mat\IeC {\'e}riel sportif}{7}
+\contentsline {section}{\numberline {3.4}Contraintes de connexion}{8}
+\contentsline {section}{\numberline {3.5}Contraintes budg\IeC {\'e}taires}{8}
+\contentsline {section}{\numberline {3.6}Contraintes d'identification}{8}
+\contentsline {section}{\numberline {3.7}Contraintes de langue utilis\IeC {\'e}e}{8}
+\contentsline {section}{\numberline {3.8}Li\IeC {\'e}es au comportement de l'utilisateur}{8}
+\contentsline {chapter}{\numberline {4}Functional requirements}{9}
+\contentsline {section}{\numberline {4.1}The scope of the work}{9}
+\contentsline {section}{\numberline {4.2}The scope of the product}{9}
+\contentsline {section}{\numberline {4.3}Functional and data requirements}{10}
+\contentsline {chapter}{\numberline {5}Exigences non fonctionnelles}{17}
+\contentsline {section}{\numberline {5.1}Ergonomie et convivialit\IeC {\'e} du produit}{17}
+\contentsline {section}{\numberline {5.2}Facilit\IeC {\'e} d'utilisation et facteurs humains}{19}
+\contentsline {section}{\numberline {5.3}Fonctionnement du produit}{21}
+\contentsline {section}{\numberline {5.4}Ad\IeC {\'e}quation du produit avec son environnement}{22}
+\contentsline {section}{\numberline {5.5}Maintenance et support du produit}{22}
+\contentsline {section}{\numberline {5.6}S\IeC {\'e}curit\IeC {\'e}}{23}
+\contentsline {chapter}{\numberline {6}Probl\IeC {\`e}mes du projet}{25}
+\contentsline {section}{\numberline {6.1}Questions sans r\IeC {\'e}ponses}{25}
+\contentsline {section}{\numberline {6.2}Solution existante}{25}
+\contentsline {section}{\numberline {6.3}Nouveaux probl\IeC {\`e}mes}{25}
+\contentsline {section}{\numberline {6.4}T\IeC {\^a}ches \IeC {\`a} faire}{25}
+\contentsline {section}{\numberline {6.5}Risques}{26}
+\contentsline {section}{\numberline {6.6}Co\IeC {\^u}ts}{26}
+\contentsline {section}{\numberline {6.7}User documentation and training}{27}
+\contentsline {section}{\numberline {6.8}Waiting room}{27}
+\contentsline {section}{\numberline {6.9}Ideas for solutions}{27}

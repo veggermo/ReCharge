@@ -1,17 +1,42 @@
 \chapter{Contraintes du projet}
 
-\section{Mandated constraints}
+Les différentes contraintes liées à l'élaboration et à l'utilisation du produit sont listées ci-dessus.
 
-Limites à certains sports individuels. 
+\section{Liées au domaine sportif}
 
-Contraintes liées au machine learning => need bcp données
+Notre domaine d'application se limite aux sports individuels comme la course ou marche à pied, la natation, le vélo, la musculation que ce soit pour la remise en forme ou la pratique régulière.
 
-Liés aux OS mobiles (Android >= 4.1), budgets(tenir compte investissement partenaires), identification
+\section{Liées au \textit{machine learning}}
 
-Accès à Internet pour expérience totale
+Nous avons besoin de grands échantillons de données exploitables pour pouvoir 
+Cas de \textit{supervised learning}\footnote{Technique de \textit{machine learning} où on produit des règles à partir d'une base de données d'apprentissage contenant des exemples.} car on se sert de l'expertise des coachs pour mieux interpréter les données, on ne se sert pas uniquement des données brutes.
 
-\section{Naming conventions and definitions}
+\section{Contraintes matérielles}
 
-\section{Relevant facts and assumptions}
+\subsection{OS Mobiles}
 
-Honnêteté de l'utilisateur envers ces données/résultats...
+Les utilisateurs devront être munis d'appareils dotés d'une version de l'OS assez récente. Typiquement pour l'utilisateur ayant un appareil \textit{Android}, la version d'\textit{Android} devra être supérieure à la version 4.1.
+
+\subsection{Matériel sportif}
+
+Dans certains cas, afin de mesurer l'amélioration des performances sportives de l'utilisateur, on se basera sur le rythme cardiaque de celui-ci lors des séances. Dès lors, l'utilisateur devrait se munir d'une montre ou d'un quelconque objet connecté pouvant mesurer son rythme cardiaque? Ces données seront rentrées dans le récapitulatif de la séance, et la progression de cet utilisateur sera mesurée.
+
+\section{Contraintes de connexion}
+
+Afin de profiter d'une expérience totale lors de l'utilisation de l'application, l'utilisateur devra être connecté à Internet. Effectivement, il sera nécessaire d'être connecté à Internet pour disposer des séances recommandées par le système.
+
+\section{Contraintes budgétaires}
+
+Le budget mis à disposition pour le développement du produit est également une contrainte importante à prendre en compte. Et celui-ci dépendra en grande partie de l'intérêt que les partenaires placeront dans le produit. Si ceux-ci sont peu intéressés, le budget sera clairement limité au début du développement et l'avancement du projet sera peu élevé.
+
+\section{Contraintes d'identification}
+
+Afin de s'identifier lors de sa première connexion à l'application, l'utilisateur pourra se connecter de trois manières différentes : via son compte Facebook, via son compte Google, ou en entrant ses données de manière classique\footnote{cfr. Partie "Inscription dans le système" du Chapitre 4}. 
+
+\section{Contraintes de langue utilisée}
+
+SportEasy sera premièrement disponible en français. Si l'application dispose d'un réel succès, il serait envisageable de la rendre disponible en anglais, voire même en néerlandais.
+
+\section{Liées au comportement de l'utilisateur}
+
+Si l'utilisateur tient vraiment à progresser dans la suite de son parcours sportif, nous tenons à ce qu'il soit le plus honnête possible lorsqu'il entre ces résultats successifs à la séance passée. 
