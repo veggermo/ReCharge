@@ -1,4 +1,4 @@
-\babel@toc {french}{}
+\select@language {french}
 \contentsline {chapter}{\numberline {1}Objectifs du projet}{3}
 \contentsline {section}{\numberline {1.1}But du projet}{3}
 \contentsline {section}{\numberline {1.2}Plan business du projet}{3}
@@ -32,11 +32,8 @@
 \contentsline {chapter}{\numberline {6}Probl\IeC {\`e}mes du projet}{26}
 \contentsline {section}{\numberline {6.1}Questions sans r\IeC {\'e}ponses}{26}
 \contentsline {section}{\numberline {6.2}Solution existante}{26}
-\contentsline {section}{\numberline {6.3}Nouveaux probl\IeC {\`e}mes}{26}
-\contentsline {section}{\numberline {6.4}T\IeC {\^a}ches \IeC {\`a} faire}{26}
-\contentsline {section}{\numberline {6.5}Contr\IeC {\^o}le final de qualit\IeC {\'e}}{27}
-\contentsline {section}{\numberline {6.6}Risques}{27}
-\contentsline {section}{\numberline {6.7}Co\IeC {\^u}ts}{28}
-\contentsline {section}{\numberline {6.8}Documentation et formation pour l'utilisateur}{28}
-\contentsline {section}{\numberline {6.9}Waiting room}{29}
-\contentsline {section}{\numberline {6.10}Ideas for solutions}{29}
+\contentsline {section}{\numberline {6.3}T\IeC {\^a}ches \IeC {\`a} faire}{26}
+\contentsline {section}{\numberline {6.4}Contr\IeC {\^o}le final de qualit\IeC {\'e}}{27}
+\contentsline {section}{\numberline {6.5}Risques}{27}
+\contentsline {section}{\numberline {6.6}Co\IeC {\^u}ts}{28}
+\contentsline {section}{\numberline {6.7}Documentation et formation pour l'utilisateur}{28}
