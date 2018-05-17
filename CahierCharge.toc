@@ -1,4 +1,4 @@
-\select@language {french}
+\babel@toc {french}{}
 \contentsline {chapter}{\numberline {1}Objectifs du projet}{3}
 \contentsline {section}{\numberline {1.1}But du projet}{3}
 \contentsline {section}{\numberline {1.2}Plan business du projet}{3}
@@ -11,8 +11,6 @@
 \contentsline {section}{\numberline {3.1}Li\IeC {\'e}es au domaine sportif}{8}
 \contentsline {section}{\numberline {3.2}Li\IeC {\'e}es au \textit {machine learning}}{8}
 \contentsline {section}{\numberline {3.3}Contraintes mat\IeC {\'e}rielles}{8}
-\contentsline {subsection}{\numberline {3.3.1}OS Mobiles}{8}
-\contentsline {subsection}{\numberline {3.3.2}Mat\IeC {\'e}riel sportif}{8}
 \contentsline {section}{\numberline {3.4}Contraintes de connexion}{9}
 \contentsline {section}{\numberline {3.5}Contraintes budg\IeC {\'e}taires}{9}
 \contentsline {section}{\numberline {3.6}Contraintes d'identification}{9}
